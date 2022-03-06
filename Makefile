@@ -1,11 +1,8 @@
-WINE = wine
-WINE_PATH_TOOL = winepath
-
-CC = $(WINE) orbis-clang
-CXX = $(WINE) orbis-clang++
-LD = $(WINE) orbis-ld
-OBJCOPY = $(WINE) orbis-objcopy
-PUBCMD = $(WINE) orbis-pub-cmd
+CC = orbis-clang
+CXX = orbis-clang++
+LD = orbis-ld
+OBJCOPY = orbis-objcopy
+PUBCMD = orbis-pub-cmd
 MAKE_FSELF = make_fself.py
 
 OBJDIR = obj
@@ -14,7 +11,7 @@ MODDIR = sce_module
 
 TARGET = remote_pkg_installer
 
-LIBS = -lkernel_tau_stub_weak -lScePosix_stub_weak -lSceSysmodule_tau_stub_weak -lSceSystemService_stub_weak -lSceSystemService_tau_stub_weak -lSceUserService_stub_weak -lSceUserService_tau_stub_weak -lSceNetCtl_stub_weak -lSceNet_stub_weak -lSceHttp_stub_weak -lSceSsl_stub_weak -lSceAppInstUtil_tau_stub_weak -lSceBgft_tau_stub_weak -lSceNpCommon_tau_stub_weak -lkernel_util
+LIBS = -lkernel_tau_stub_weak -lSceSysmodule_stub_weak -lScePosix_stub_weak -lSceSysmodule_tau_stub_weak -lSceSystemService_stub_weak -lSceSystemService_tau_stub_weak -lSceUserService_stub_weak -lSceUserService_tau_stub_weak -lSceNetCtl_stub_weak -lSceNet_stub_weak -lSceHttp_stub_weak -lSceSsl_stub_weak -lSceAppInstUtil_tau_stub_weak -lSceBgft_tau_stub_weak -lSceNpCommon_tau_stub_weak -lkernel_util -lSceSysUtil_tau_stub_weak -lSceCommonDialog_tau_stub_weak -lSceWebBrowserDialog_tau_stub_weak
 LIBS += -lsandbird -ltiny_json
 
 SDK_MODULES =
@@ -27,7 +24,7 @@ C_SRCS = http.c installer.c main.c net.c pkg.c server.c sfo.c util.c
 
 COMMON_FLAGS = -Wall
 COMMON_FLAGS += -fdiagnostics-color=always
-COMMON_FLAGS += -I $(TAUON_SDK_DIR)/include -I $(SCE_ORBIS_SDK_DIR)/target/include -I $(SCE_ORBIS_SDK_DIR)/target/include/common -I thirdparty/sandbird/src -I thirdparty/tiny-json -I thirdparty/uthash
+COMMON_FLAGS += -I "tauon\include" -I "$(SCE_ORBIS_SDK_DIR)\target\include" -I "$(SCE_ORBIS_SDK_DIR)\target\include\common" -I thirdparty\sandbird\src -I thirdparty\tiny-json -I thirdparty\uthash
 COMMON_FLAGS += -DNDEBUG
 #COMMON_FLAGS += -g
 
@@ -41,7 +38,7 @@ CFLAGS += -O3
 ASFLAGS = $(COMMON_FLAGS)
 
 LDFLAGS = -s -Wl,--strip-unused-data
-LDFLAGS += -L $(TAUON_SDK_DIR)/lib -L $(SCE_ORBIS_SDK_DIR)/target/lib -L thirdparty/sandbird/build -L thirdparty/tiny-json/build
+LDFLAGS += -L "tauon\lib" -L "$(SCE_ORBIS_SDK_DIR)\target\lib" -L thirdparty\sandbird\build -L thirdparty\tiny-json\build
 
 OBJS = $(addprefix $(OBJDIR)/,$(ASM_SRCS:.S=.S.o) $(C_SRCS:.c=.c.o))
 
@@ -50,19 +47,6 @@ OBJS = $(addprefix $(OBJDIR)/,$(ASM_SRCS:.S=.S.o) $(C_SRCS:.c=.c.o))
 all: post-build
 
 pre-build:
-	@mkdir -p $(MODDIR) $(OBJDIR) $(BLDDIR)
-	#@for filename in $(SDK_MODULES); do \
-	#	if [ ! -f "$(MODDIR)/$$filename" ]; then \
-	#		echo Copying $$filename...; \
-	#		cp "`$(WINE_PATH_TOOL) -u \"$(SCE_ORBIS_SDK_DIR)/target/sce_module/$$filename\"`" $(MODDIR)/; \
-	#	fi; \
-	#done;
-	#@for filename in $(EXTRA_MODULES); do \
-	#	if [ ! -f "$(MODDIR)/$$filename" ]; then \
-	#		echo Copying $$filename...; \
-	#		cp "extra/$$filename" $(MODDIR)/; \
-	#	fi; \
-	#done;
 
 post-build: main-build
 
@@ -70,22 +54,20 @@ main-build: pre-build
 	@$(MAKE) --no-print-directory pkg
 
 eboot: pre-build $(OBJS)
-	$(CC) -v $(LDFLAGS) -o $(BLDDIR)/$(TARGET).elf $(OBJS) $(LIBS)
+	$(CC) -v $(LDFLAGS) -o "$(BLDDIR)/$(TARGET).elf" $(OBJS) $(LIBS)
 
 $(OBJDIR)/%.S.o: %.S
-	@mkdir -p $(dir $@)
 	$(CC) $(ASFLAGS) -c $< -o $@
 
 $(OBJDIR)/%.c.o: %.c
-	@mkdir -p $(dir $@)
 	$(CC) $(CFLAGS) -c $< -o $@
 
 sfo:
-	$(PUBCMD) sfo_create sce_sys/param.sfx $(BLDDIR)/param.sfo
+	"P:\Program Files (x86)\SCE\ORBIS\Tools\Publishing Tools\bin\orbis-pub-cmd.exe" sfo_create "sce_sys\param.sfx" "build\param.sfo"
 
 pkg: sfo eboot
-	$(MAKE_FSELF) --auth-info $(AUTH_INFO) $(BLDDIR)/$(TARGET).elf $(BLDDIR)/$(TARGET).self
-	$(PUBCMD) img_create $(TARGET).gp4 $(BLDDIR)/$(TARGET).pkg
+	"C:\Python27\python.exe" make_fself.py --auth-info $(AUTH_INFO) "$(BLDDIR)/$(TARGET).elf" "$(BLDDIR)/$(TARGET).self"
+	"P:\Program Files (x86)\SCE\ORBIS\Tools\Publishing Tools\bin\orbis-pub-cmd.exe" img_create $(TARGET).gp4 $(BLDDIR)/$(TARGET).pkg
 
 clean:
-	@rm -rf $(OBJDIR) $(BLDDIR)
+	@del /S /Q $(OBJDIR) $(BLDDIR)

@@ -8,6 +8,9 @@
 #include <system_service_ex.h>
 #include <lnc_util.h>
 #include <user_service.h>
+#include <common_dialog.h>
+#include <web_browser_dialog.h>
+
 
 #define SERVER_PORT (12800)
 
@@ -26,6 +29,23 @@ static void unset_privileges(void);
 
 static void cleanup(void);
 
+int loadModule(const char *name, int *idDestination)
+{
+  return syscall(594, name, 0, idDestination, 0);
+}
+
+int sceSysUtilSendSystemNotificationWithText(int messageType, char* message);
+int fnotify(char *message)
+{
+//	int moduleId = sceKernelLoadStartModule("/system/common/lib/libSceSysUtil.sprx", 0, NULL, 0, 0, 0);
+
+	int ret = sceSysUtilSendSystemNotificationWithText(222, message);
+
+	return ret;
+}
+
+
+
 int main(int argc, const char* const argv[]) {
 	char* work_dir;
 	char ip_address[16];
@@ -36,6 +56,10 @@ int main(int argc, const char* const argv[]) {
 	if (!load_modules()) {
 		EPRINTF("Unable to load modules.\n");
 		goto err;
+	}
+	
+	if ( sceCommonDialogInitialize() < 0 ) {
+		EPRINTF("Common Dialog initialization failed.\n");
 	}
 
 	//printf("Initializing user service...\n");
@@ -190,6 +214,21 @@ static bool load_modules(void) {
 		EPRINTF("sceSysmoduleLoadModuleInternal(%s) failed: 0x%08X\n", STRINGIFY_DEEP(SCE_SYSMODULE_INTERNAL_NP_COMMON), ret);
 		goto err_unload_bgft;
 	}
+	
+	ret = sceSysmoduleLoadModuleInternal(0x80000026);
+	if (ret) {
+		EPRINTF("sceSysmoduleLoadModuleInternal(%s) failed: 0x%08X\n", STRINGIFY_DEEP(0x80000026), ret);
+	}
+	
+	ret = sceSysmoduleLoadModuleInternal(0x80000018);
+	if (ret) {
+		EPRINTF("sceSysmoduleLoadModuleInternal(%s) failed: 0x%08X\n", STRINGIFY_DEEP(0x80000018), ret);
+	}
+	
+	ret = sceSysmoduleLoadModule(0x00AB);
+	if (ret) {
+		EPRINTF("sceSysmoduleLoadModule(%s) failed: 0x%08X\n", STRINGIFY_DEEP(0x00AB), ret);
+	}
 
 	s_modules_loaded = true;
 
@@ -315,6 +354,21 @@ static void unload_modules(void) {
 	ret = sceSysmoduleUnloadModuleInternal(SCE_SYSMODULE_INTERNAL_SYS_CORE);
 	if (ret) {
 		EPRINTF("sceSysmoduleUnloadModuleInternal(%s) failed: 0x%08X\n", STRINGIFY_DEEP(SCE_SYSMODULE_INTERNAL_SYS_CORE), ret);
+	}
+	
+	ret = sceSysmoduleUnloadModuleInternal(0x80000026);
+	if (ret) {
+		EPRINTF("sceSysmoduleUnloadModuleInternal(%s) failed: 0x%08X\n", STRINGIFY_DEEP(0x80000026), ret);
+	}
+	
+	ret = sceSysmoduleUnloadModuleInternal(0x80000018);
+	if (ret) {
+		EPRINTF("sceSysmoduleUnloadModuleInternal(%s) failed: 0x%08X\n", STRINGIFY_DEEP(0x80000018), ret);
+	}
+	
+	ret = sceSysmoduleUnloadModule(0x00AB);
+	if (ret) {
+		EPRINTF("sceSysmoduleUnloadModule(%s) failed: 0x%08X\n", STRINGIFY_DEEP(0x00AB), ret);
 	}
 
 	s_modules_loaded = false;

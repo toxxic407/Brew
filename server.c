@@ -4,17 +4,91 @@
 #include "sfo.h"
 #include "http.h"
 #include "util.h"
+#include <system_service.h>
 
 #include <kernel_ex.h>
 #include <fcntl.h>
 #include <sys/stat.h>
+#include <sys/types.h>
 
 #include <sandbird.h>
 #include <tiny-json.h>
+#include <web_browser_dialog.h>
+#include <common_dialog.h>
 
 #define CLEANUP_DAY_COUNT 3
 
 typedef bool handler_cb(sb_Stream* s, const char* method, const char* path, char* in_data, size_t in_size);
+
+int sceSysUtilSendSystemNotificationWithText(int messageType, char* message);
+char url_string[51];
+int notify(char *message)
+{
+//	int moduleId = sceKernelLoadStartModule("/system/common/lib/libSceSysUtil.sprx", 0, NULL, 0, 0, 0);
+
+	int ret = sceSysUtilSendSystemNotificationWithText(222, message);
+
+	return ret;
+}
+
+int cp(const char *to, const char *from)
+{
+    int fd_to, fd_from;
+    char buf[4096];
+    ssize_t nread;
+    int saved_errno;
+
+    fd_from = open(from, O_RDONLY);
+    if (fd_from < 0)
+        return -1;
+
+    fd_to = open(to, O_WRONLY | O_CREAT | O_EXCL, 0666);
+    if (fd_to < 0)
+        goto out_error;
+
+    while (nread = read(fd_from, buf, sizeof buf), nread > 0)
+    {
+        char *out_ptr = buf;
+        ssize_t nwritten;
+
+        do {
+            nwritten = write(fd_to, out_ptr, nread);
+
+            if (nwritten >= 0)
+            {
+                nread -= nwritten;
+                out_ptr += nwritten;
+            }
+            else if (errno != EINTR)
+            {
+                goto out_error;
+            }
+        } while (nread > 0);
+    }
+
+    if (nread == 0)
+    {
+        if (close(fd_to) < 0)
+        {
+            fd_to = -1;
+            goto out_error;
+        }
+        close(fd_from);
+
+        /* Success! */
+        return 0;
+    }
+
+  out_error:
+    saved_errno = errno;
+
+    close(fd_from);
+    if (fd_to >= 0)
+        close(fd_to);
+
+    errno = saved_errno;
+    return -1;
+}
 
 struct handler_desc {
 	const char* path;
@@ -93,6 +167,27 @@ static const struct handler_desc s_post_handlers[] = {
 bool server_start(const char* ip_address, int port, const char* work_dir) {
 	sb_Options opts;
 	char port_str[16];
+	snprintf(url_string, sizeof(url_string), "http://%s:%d/static/store/index.html", ip_address, port);
+	notify(url_string);
+	
+	struct stat stbuf;
+	if(stat("/data/store",&stbuf) < 0){
+		EPRINTF("Copying /store Files to /data.\n");
+		mkdir("/data/store", 0777);
+		cp("/data/store/index.html","/app0/store/index.html");
+		cp("/data/store/mindex.html","/app0/store/mindex.html");
+		cp("/data/store/help.html","/app0/store/help.html");
+		cp("/data/store/mhelp.html","/app0/store/mhelp.html");
+		cp("/data/store/settings.html","/app0/store/settings.html");
+		cp("/data/store/msettings.html","/app0/store/msettings.html");
+		cp("/data/store/favicon.png","/app0/store/favicon.png");
+		cp("/data/store/background.png","/app0/store/background.png");
+		cp("/data/store/mbackground.png","/app0/store/mbackground.png");
+		cp("/data/store/main.js","/app0/store/main.js");
+		cp("/data/store/style.css","/app0/store/style.css");
+		cp("/data/store/button.png","/app0/store/button.png");
+		cp("/data/store/pkgs.json","/app0/store/pkgs.json");
+	}
 
 	if (s_server_started) {
 		goto done;
@@ -151,9 +246,59 @@ bool server_listen(void) {
 	if (!s_server_started) {
 		goto err;
 	}
+	
+	char errorcode[512];
+	int32_t ret = sceWebBrowserDialogInitialize();
+	//notify("initializing Browser");
+	if ( ret < 0 ) {
+		sprintf(errorcode, "sceWebBrowserDialogInitialize returned Code: %d", ret);
+		notify(errorcode);
+	}
+	
+	char url[SCE_WEB_BROWSER_DIALOG_URL_SIZE];
+	memset(url, 0x0, sizeof(url));
+	strncpy(url, url_string, SCE_WEB_BROWSER_DIALOG_URL_SIZE);
+	
+	SceWebBrowserDialogParam param;
+	sceWebBrowserDialogParamInitialize( &param );
+	param.url = url;
+	ret = sceUserServiceGetInitialUser( &param.userId );
+	param.mode = SCE_WEB_BROWSER_DIALOG_MODE_CUSTOM;
+	param.positionY = 0;
+	param.width = 1920;
+	param.height = 1080;
+	param.headerWidth =1920;
+	param.parts = SCE_WEB_BROWSER_DIALOG_CUSTOM_PARTS_NONE;
+	param.animation = SCE_WEB_BROWSER_DIALOG_ANIMATION_DEFAULT;
+	SceWebBrowserDialogWebViewParam	webview_param;
+		memset(&webview_param, 0x0, sizeof(webview_param));
+		webview_param.size = sizeof(SceWebBrowserDialogWebViewParam);
+		webview_param.option = SCE_WEB_BROWSER_DIALOG_WEBVIEW_OPTION_BACKGROUND_TRANSPARENCY;
 
+		param.webviewParam = &webview_param;
+	param.control = 0x01 | 0x02 | 0x04 | 0x08 | 0x10;
+	if ( ret != 0 ) {
+		sprintf(errorcode, "sceUserServiceGetInitialUser returned Code: %d", ret);
+		notify(errorcode);
+	}
+	
+	ret = sceWebBrowserDialogOpen( &param );
+	if ( ret < 0 ) {
+		sprintf(errorcode, "sceWebBrowserDialogOpen returned Code: %d", ret);
+		notify(errorcode);
+	}
+	ret = sceSystemServiceHideSplashScreen();
 	for (;;) {
 		sb_poll_server(s_server);
+		ret = sceWebBrowserDialogUpdateStatus();
+		if( ret == SCE_COMMON_DIALOG_STATUS_FINISHED ) {
+			//notify("sceWebBrowserDialogUpdateStatus has finished");
+			ret = sceWebBrowserDialogOpen( &param );
+			if ( ret < 0 ) {
+				sprintf(errorcode, "sceWebBrowserDialogOpen returned Code: %d", ret);
+				notify(errorcode);
+			}
+		}
 	}
 
 	return true;
@@ -1445,11 +1590,16 @@ static bool handle_static(sb_Stream* s, const char* method, const char* path, ch
 		ret = SB_RES_OK;
 		goto done;
 	}
-
 	if (ends_with_nocase(real_path, ".json")) {
 		content_type = "application/json";
 	} else if (ends_with_nocase(real_path, ".png")) {
 		content_type = "image/png";
+	} else if (ends_with_nocase(real_path, ".html")) {
+		content_type = "text/html; charset=UTF-8";
+	} else if (ends_with_nocase(real_path, ".js")) {
+		content_type = "text/javascript; charset=UTF-8";
+	} else if (ends_with_nocase(real_path, ".css")) {
+		content_type = "text/css; charset=UTF-8";
 	} else {
 		content_type = "application/octet-stream";
 	}
