@@ -1,0 +1,45 @@
+CC = orbis-clang
+AR = orbis-ar
+
+OBJDIR = obj
+BLDDIR = build
+
+TARGET = tiny_json
+
+C_SRCS = tiny-json.c
+
+COMMON_FLAGS = -Wall
+COMMON_FLAGS += -fdiagnostics-color=always -nostdinc
+COMMON_FLAGS += -I "$(SCE_ORBIS_SDK_DIR)/host_tools/lib/clang/include" -I "tauon/include" -I "$(SCE_ORBIS_SDK_DIR)/target/include" -I "$(SCE_ORBIS_SDK_DIR)/target/include/common"
+COMMON_FLAGS += -DNDEBUG -D__BSD_VISIBLE
+COMMON_FLAGS += -g
+
+CFLAGS = $(COMMON_FLAGS)
+CFLAGS += -std=c11
+CFLAGS += -Wno-unused-variable -Wno-unused-function -Wno-unused-label -Werror=implicit-function-declaration
+CFLAGS += -fno-strict-aliasing
+CFLAGS += -fPIC
+CFLAGS += -O3
+
+OBJS = $(addprefix $(OBJDIR)/, $(C_SRCS:.c=.c.o))
+
+.PHONY: all clean
+
+all: post-build
+
+pre-build:
+
+post-build: main-build
+
+main-build: pre-build
+	@$(MAKE) --no-print-directory lib
+
+lib: pre-build $(OBJS)
+	$(AR) rc $(BLDDIR)/lib$(TARGET).a $(OBJS)
+
+$(OBJDIR)/%.c.o: %.c
+	print $(dir $@)
+	$(CC) $(CFLAGS) -c $< -o $@
+
+clean:
+	@rm -rf $(OBJDIR) $(BLDDIR)
