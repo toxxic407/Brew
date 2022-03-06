@@ -1,0 +1,3064 @@
+[
+  {
+    "titleid": "NPXX51362",
+    "version": "01.00",
+    "contentid": "ED1633-NPXX51362_00-TER1520000000000",
+    "type": "game",
+    "name": "★ FLAPPY BIRD  ★ By TER152 ★",
+    "icon": "http://brew.ga/FLAPPY_BIRD.pkg.icon0.png",
+    "links": [
+      "http://brew.ga/FLAPPY_BIRD.pkg"
+    ],
+    "description": [
+      "Flappy Bird Clone"
+    ],
+    "devs": [
+      "TER152"
+    ],
+    "size": "77MB",
+    "categories": [
+      "game"
+    ]
+  },
+  {
+    "titleid": "NPXX51522",
+    "version": "01.00",
+    "contentid": "ED1523-NPXX51522_00-00TER15200000000",
+    "type": "game",
+    "name": "★ Pokemon ★ By TER152 ★",
+    "icon": "http://brew.ga/POKEMON_BY_TER152.pkg.icon0.png",
+    "links": [
+      "http://brew.ga/POKEMON_BY_TER152.pkg"
+    ],
+    "description": [
+      "Pokemon for the",
+      "PS4"
+    ],
+    "devs": [
+      "TER152",
+      " IIcolour_Spectrum"
+    ],
+    "size": "311MB",
+    "categories": [
+      "utility"
+    ]
+  },
+  {
+    "titleid": "NPXS29129",
+    "version": "01.00",
+    "contentid": "IV0002-NPXS29129_00-APP0990000000022",
+    "type": "game",
+    "name": "A GameMaker: Studio Game",
+    "icon": "http://brew.ga/GAMEMAKERPS4.pkg.icon0.png",
+    "links": [
+      "http://brew.ga/GAMEMAKERPS4.pkg"
+    ],
+    "description": [
+      "GameMaker: Studio",
+      "TestApp"
+    ],
+    "devs": [
+      "Silica"
+    ],
+    "size": "32MB",
+    "categories": [
+      "test"
+    ]
+  },
+  {
+    "titleid": "CUSA00130",
+    "version": "01.00",
+    "contentid": "UP2064-CUSA00130_00-AIV00000000000US",
+    "type": "game",
+    "name": "Amazon Instant Video",
+    "icon": "http://brew.ga/UP2064-CUSA00130_00-AIV00000000000US-A0100-V0100.pkg.icon0.png",
+    "links": [
+      "http://brew.ga/UP2064-CUSA00130_00-AIV00000000000US-A0100-V0100.pkg"
+    ],
+    "description": [
+      "Patched Amazon Prime Video",
+      ".",
+      "a.k.a No PSN"
+    ],
+    "devs": [
+      "HK31"
+    ],
+    "size": "8MB",
+    "categories": [
+      "media"
+    ]
+  },
+  {
+    "titleid": "UNTI00001",
+    "version": "01.00",
+    "contentid": "IV0000-UNTI00001_00-ANUNTITLEDSTORY0",
+    "type": "game",
+    "name": "An Untitled Story\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+    "icon": "http://brew.ga/ANUNTITLEDSTORY-PS4.pkg.icon0.png",
+    "links": [
+      "http://brew.ga/ANUNTITLEDSTORY-PS4.pkg"
+    ],
+    "description": [
+      "Homebrew Game"
+    ],
+    "devs": [
+      "Silica"
+    ],
+    "size": "62MB",
+    "categories": [
+      "game"
+    ]
+  },
+  {
+    "titleid": "APOL00004",
+    "version": "1.01",
+    "contentid": "IV0000-APOL00004_00-APOLLO0000000PS4",
+    "type": "game",
+    "name": "Apollo Save Tool",
+    "icon": "http://brew.ga/apollo.pkg.icon0.png",
+    "links": [
+      "http://brew.ga/apollo.pkg"
+    ],
+    "description": [
+      "Automatic Save-mounting (GoldHEN or ps4debug required)\r\nOffline Account activation",
+      "Show Parental security passcode",
+      "Save Keystone fingerprint dump"
+    ],
+    "devs": [
+      "bucanero"
+    ],
+    "size": "14MB",
+    "categories": [
+      "utility"
+    ]
+  },
+  {
+    "titleid": "BBAR00505",
+    "version": "01.00",
+    "contentid": "IV0000-BBAR00505_00-PS4REDBREWPSNIO0",
+    "type": "game",
+    "name": "B&nder Bar\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+    "icon": "http://brew.ga/IV0000-BBAR00505_00-PS4REDBREWPSNIO0.pkg.icon0.png",
+    "links": [
+      "http://brew.ga/IV0000-BBAR00505_00-PS4REDBREWPSNIO0.pkg"
+    ],
+    "description": [
+      "Homebrew Game",
+      ".",
+      "a.k.a No PSN"
+    ],
+    "devs": [
+      "Red-J"
+    ],
+    "size": "19MB",
+    "categories": [
+      "game"
+    ]
+  },
+  {
+    "titleid": "BALL00001",
+    "version": "01.00",
+    "contentid": "IV0000-BALL00001_00-BALLBLASTERGMST0",
+    "type": "game",
+    "name": "Ball Blaster\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+    "icon": "http://brew.ga/IV0000-BALL00001_00-BALLBLASTERGMST0.pkg.icon0.png",
+    "links": [
+      "http://brew.ga/IV0000-BALL00001_00-BALLBLASTERGMST0.pkg"
+    ],
+    "description": [
+      "Homebrew Game"
+    ],
+    "devs": [
+      "jwooh"
+    ],
+    "size": "56MB",
+    "categories": [
+      "game"
+    ]
+  },
+  {
+    "titleid": "BORC00078",
+    "version": "01.00",
+    "contentid": "UP9000-BORC00078_00-BORC000780000001",
+    "type": "game",
+    "name": "Batman Gotham Knights",
+    "icon": "http://brew.ga/BATMAN_GOTHAM_KNIGHTS.pkg.icon0.png",
+    "links": [
+      "http://brew.ga/BATMAN_GOTHAM_KNIGHTS.pkg"
+    ],
+    "description": [
+      "Homebrew Game"
+    ],
+    "devs": [
+      "TheheroGAC"
+    ],
+    "size": "79MB",
+    "categories": [
+      "game"
+    ]
+  },
+  {
+    "titleid": "NPXX88888",
+    "version": "01.00",
+    "contentid": "ED1633-NPXX88888_00-0000000000000000",
+    "type": "game",
+    "name": "Block Buster",
+    "icon": "http://brew.ga/BLOCK_BUSTER_WITH_LOGO.pkg.icon0.png",
+    "links": [
+      "http://brew.ga/BLOCK_BUSTER_WITH_LOGO.pkg"
+    ],
+    "description": [
+      "Homebrew Game"
+    ],
+    "devs": [
+      "SnakePlissken"
+    ],
+    "size": "86MB",
+    "categories": [
+      "game"
+    ]
+  },
+  {
+    "titleid": "QUIG00003",
+    "version": "01.00",
+    "contentid": "IV0000-QUIG00003_00-SAVETHEBLUEBOI00",
+    "type": "game",
+    "name": "Blue Boi | Quickz\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+    "icon": "http://brew.ga/IV0000-QUIG00003_00-SAVETHEBLUEBOI00.pkg.icon0.png",
+    "links": [
+      "http://brew.ga/IV0000-QUIG00003_00-SAVETHEBLUEBOI00.pkg"
+    ],
+    "description": [
+      "Homebrew Game"
+    ],
+    "devs": [
+      "Quickz"
+    ],
+    "size": "13MB",
+    "categories": [
+      "game"
+    ]
+  },
+  {
+    "titleid": "LAPY10017",
+    "version": "01.01",
+    "contentid": "ED1234-LAPY10017_00-0000000000000000",
+    "type": "game",
+    "name": "Brain Splitter",
+    "icon": "http://brew.ga/BrainSplitter.pkg.icon0.png",
+    "links": [
+      "http://brew.ga/BrainSplitter.pkg"
+    ],
+    "description": [
+      "Space shooting game"
+    ],
+    "devs": [
+      "Lapy"
+    ],
+    "size": "99MB",
+    "categories": [
+      "hb game"
+    ]
+  },
+  {
+    "titleid": "CUSA33666",
+    "version": "01.00",
+    "contentid": "UP9000-CUSA33666_00-SCUS974900000001",
+    "type": "game",
+    "name": "Brutal Plissken DooM v2",
+    "icon": "http://brew.ga/UP9000-CUSA33666_00-SCUS974900000001-A0100-V0100.pkg.icon0.png",
+    "links": [
+      "http://brew.ga/UP9000-CUSA33666_00-SCUS974900000001-A0100-V0100.pkg"
+    ],
+    "description": [
+      "DooM Clone with Blood"
+    ],
+    "devs": [
+      "SnakePlissken"
+    ],
+    "size": "163MB",
+    "categories": [
+      "game"
+    ]
+  },
+  {
+    "titleid": "CUSA36666",
+    "version": "01.00",
+    "contentid": "UP9000-CUSA36666_00-SCUS974900000001",
+    "type": "game",
+    "name": "Brutal PS4 DooM v2.5",
+    "icon": "http://brew.ga/BRUTAL_PS4_DOOM_2_5.pkg.icon0.png",
+    "links": [
+      "http://brew.ga/BRUTAL_PS4_DOOM_2_5.pkg"
+    ],
+    "description": [
+      "DooM Clone with",
+      "Blood"
+    ],
+    "devs": [
+      "SnakePlissken"
+    ],
+    "size": "176MB",
+    "categories": [
+      "game"
+    ]
+  },
+  {
+    "titleid": "BORR00007",
+    "version": "01.00",
+    "contentid": "UP9000-BORR00007_00-BORR000070000001",
+    "type": "game",
+    "name": "Cadillacs and Dinosaurs",
+    "icon": "http://brew.ga/CADILLACS_AND_DINOSAURS.pkg.icon0.png",
+    "links": [
+      "http://brew.ga/CADILLACS_AND_DINOSAURS.pkg"
+    ],
+    "description": [
+      "Homebrew Game"
+    ],
+    "devs": [
+      "TheheroGAC"
+    ],
+    "size": "63MB",
+    "categories": [
+      "game"
+    ]
+  },
+  {
+    "titleid": "CDRR00001",
+    "version": "01.00",
+    "contentid": "CD0000-CDRR00001_00-CHIPANDDALEPS400",
+    "type": "game",
+    "name": "Chip and Dale: Remastere",
+    "icon": "http://brew.ga/CD0000-CDRR00001_00-CHIPANDDALEPS400.pkg.icon0.png",
+    "links": [
+      "http://brew.ga/CD0000-CDRR00001_00-CHIPANDDALEPS400.pkg"
+    ],
+    "description": [
+      "Homebrew Game"
+    ],
+    "devs": [
+      "Denis",
+      " YellowAfterlife",
+      " Aurora",
+      " The_Zett",
+      " RR16 studio"
+    ],
+    "size": "96MB",
+    "categories": [
+      "game"
+    ]
+  },
+  {
+    "titleid": "VTHX21368",
+    "version": "01.32",
+    "contentid": "ED1633-VTHX21368_00-1267003901084356",
+    "type": "game",
+    "name": "Consolepedia 3D",
+    "icon": "http://brew.ga/pedia.pkg.icon0.png",
+    "links": [
+      "http://brew.ga/pedia.pkg"
+    ],
+    "description": [
+      "Consolepedia 3D is a virtual encyclopedia of game systems developed in Unity.\r\n\r\n"
+    ],
+    "devs": [
+      "VitaHEX"
+    ],
+    "size": "243MB",
+    "categories": [
+      "utility"
+    ]
+  },
+  {
+    "titleid": "CREP00001",
+    "version": "01.00",
+    "contentid": "IV0000-CREP00001_00-CREEPERDIVR00000",
+    "type": "game",
+    "name": "CreeperDiver\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+    "icon": "http://brew.ga/CREEPERDIVER-PS4.pkg.icon0.png",
+    "links": [
+      "http://brew.ga/CREEPERDIVER-PS4.pkg"
+    ],
+    "description": [
+      "Homebrew Game"
+    ],
+    "devs": [
+      "Silica"
+    ],
+    "size": "19MB",
+    "categories": [
+      "game"
+    ]
+  },
+  {
+    "titleid": "BORC00007",
+    "version": "01.00",
+    "contentid": "UP9000-BORC00007_00-BORC000070000001",
+    "type": "game",
+    "name": "Crisis evil 2",
+    "icon": "http://brew.ga/CRISIS_EVIL_2.pkg.icon0.png",
+    "links": [
+      "http://brew.ga/CRISIS_EVIL_2.pkg"
+    ],
+    "description": [
+      "Homebrew Game"
+    ],
+    "devs": [
+      "TheheroGAC"
+    ],
+    "size": "99MB",
+    "categories": [
+      "game"
+    ]
+  },
+  {
+    "titleid": "CUSA02644",
+    "version": "01.00",
+    "contentid": "EP8805-CUSA02644_00-20150410XCRUNCHY",
+    "type": "game",
+    "name": "Crunchyroll",
+    "icon": "http://brew.ga/EP8805-CUSA02644_00-20150410XCRUNCHY-A0127-V0100.pkg.icon0.png",
+    "links": [
+      "http://brew.ga/EP8805-CUSA02644_00-20150410XCRUNCHY-A0127-V0100.pkg"
+    ],
+    "description": [
+      "Patched Crunchyroll",
+      ".",
+      "a.k.a No PSN"
+    ],
+    "devs": [
+      "HK31"
+    ],
+    "size": "54MB",
+    "categories": [
+      "media"
+    ]
+  },
+  {
+    "titleid": "CUSA03291",
+    "version": "01.03",
+    "contentid": "EP4062-CUSA03291_00-DEADISLANDGAME00",
+    "type": "patch",
+    "name": "Dead Island - Dev Menu Edition",
+    "icon": "http://brew.ga/EP4062-CUSA03291_00-DEADISLANDGAME00-A0199-V0103.pkg.icon0.png",
+    "links": [
+      "http://brew.ga/EP4062-CUSA03291_00-DEADISLANDGAME00-A0199-V0103.pkg"
+    ],
+    "description": [
+      "Cheat Menu for",
+      "Dead Island"
+    ],
+    "devs": [
+      "DeathRGH"
+    ],
+    "size": "90MB",
+    "categories": [
+      "dev menu"
+    ]
+  },
+  {
+    "titleid": "CUSA03290",
+    "version": "01.03",
+    "contentid": "EP4062-CUSA03290_00-RIPTIDEGAME00000",
+    "type": "patch",
+    "name": "Dead Island: Riptide - Dev Menu Edition",
+    "icon": "http://brew.ga/EP4062-CUSA03290_00-RIPTIDEGAME00000-A0199-V0103.pkg.icon0.png",
+    "links": [
+      "http://brew.ga/EP4062-CUSA03290_00-RIPTIDEGAME00000-A0199-V0103.pkg"
+    ],
+    "description": [
+      "Cheat Menu for",
+      "Dead Island: Riptide"
+    ],
+    "devs": [
+      "DeathRGH"
+    ],
+    "size": "63MB",
+    "categories": [
+      "dev menu"
+    ]
+  },
+  {
+    "titleid": "DELT00001",
+    "version": "01.00",
+    "contentid": "IV0002-DELT00001_00-DELTARUNECHAP100",
+    "type": "game",
+    "name": "Deltarune",
+    "icon": "http://brew.ga/DELTARUNE.pkg.icon0.png",
+    "links": [
+      "http://brew.ga/DELTARUNE.pkg"
+    ],
+    "description": [
+      "Homebrew Game"
+    ],
+    "devs": [
+      "Silica"
+    ],
+    "size": "91MB",
+    "categories": [
+      "game"
+    ]
+  },
+  {
+    "titleid": "CUSA15607",
+    "version": "01.00",
+    "contentid": "UP1082-CUSA15607_00-0000000000000001",
+    "type": "game",
+    "name": "Disney+",
+    "icon": "http://brew.ga/disney.pkg.icon0.png",
+    "links": [
+      "http://brew.ga/disney.pkg"
+    ],
+    "description": [
+      "NoPSN Version of this app",
+      " US Version"
+    ],
+    "devs": [
+      "HK31"
+    ],
+    "size": "58MB",
+    "categories": [
+      "media"
+    ]
+  },
+  {
+    "titleid": "LAPY10008",
+    "version": "01.01",
+    "contentid": "ED1234-LAPY10008_00-0000000000000000",
+    "type": "game",
+    "name": "Duck Hunt Remake",
+    "icon": "http://brew.ga/ED1234-LAPY10008_00-0000000000000000-A0100-V0101.pkg.icon0.png",
+    "links": [
+      "http://brew.ga/ED1234-LAPY10008_00-0000000000000000-A0100-V0101.pkg"
+    ],
+    "description": [
+      "Duck Hunt Remake",
+      "org. from the NES"
+    ],
+    "devs": [
+      "Lapy"
+    ],
+    "size": "94MB",
+    "categories": [
+      "game"
+    ]
+  },
+  {
+    "titleid": "CUSA03991",
+    "version": "01.00",
+    "contentid": "EP1018-CUSA03991_00-DLEEGAME00000000",
+    "type": "patch",
+    "name": "Dying Light: The Following – Enhanced Edition",
+    "icon": "http://brew.ga/EP1018-CUSA03991_00-DLEEGAME000000V2-A0199-V0100.pkg.icon0.png",
+    "links": [
+      "http://brew.ga/EP1018-CUSA03991_00-DLEEGAME000000V2-A0199-V0100.pkg"
+    ],
+    "description": [
+      "Cheat Menu for",
+      "Dying Light:",
+      "The Following"
+    ],
+    "devs": [
+      "DeathRGH"
+    ],
+    "size": "75MB",
+    "categories": [
+      "dev menu"
+    ]
+  },
+  {
+    "titleid": "NPXX10003",
+    "version": "02.00",
+    "contentid": "ED1234-NPXX10003_00-0000000000000000",
+    "type": "game",
+    "name": "El Pollo 2.0",
+    "icon": "http://brew.ga/ED1234-NPXX10003_00-0000000000000000-A0100-V0200.pkg.icon0.png",
+    "links": [
+      "http://brew.ga/ED1234-NPXX10003_00-0000000000000000-A0100-V0200.pkg"
+    ],
+    "description": [
+      "Homebrew Game"
+    ],
+    "devs": [
+      "Lapy"
+    ],
+    "size": "87MB",
+    "categories": [
+      "game"
+    ]
+  },
+  {
+    "titleid": "NPXX10001",
+    "version": "01.01",
+    "contentid": "ED1234-NPXX10001_00-0000000000000000",
+    "type": "game",
+    "name": "El Pollo de Lapy",
+    "icon": "http://brew.ga/ED1234-NPXX10001_00-0000000000000000-A0100-V0101.pkg.icon0.png",
+    "links": [
+      "http://brew.ga/ED1234-NPXX10001_00-0000000000000000-A0100-V0101.pkg"
+    ],
+    "description": [
+      "Flappy Bird Clone"
+    ],
+    "devs": [
+      "Lapy"
+    ],
+    "size": "63MB",
+    "categories": [
+      "game"
+    ]
+  },
+  {
+    "titleid": "CUSB00005",
+    "version": "01.00",
+    "contentid": "UP9000-CUSB00005_00-SCUS974900000001",
+    "type": "game",
+    "name": "Emu Game Boy Advance (PS2)",
+    "icon": "http://brew.ga/GBADVANCE_(PS2).pkg.icon0.png",
+    "links": [
+      "http://brew.ga/GBADVANCE_(PS2).pkg"
+    ],
+    "description": [
+      "Emulator for the",
+      "Game Boy Advance"
+    ],
+    "devs": [
+      "Markus95",
+      " zecoxao",
+      " 7he D4RK H4CK",
+      " belek666"
+    ],
+    "size": "23MB",
+    "categories": [
+      "emulator"
+    ]
+  },
+  {
+    "titleid": "CUSC00000",
+    "version": "01.01",
+    "contentid": "UP9000-CUSC00000_00-UCUS987020000001",
+    "type": "game",
+    "name": "Emu Master System (PSP)",
+    "icon": "http://brew.ga/EMU_SMS_(PSP).pkg.icon0.png",
+    "links": [
+      "http://brew.ga/EMU_SMS_(PSP).pkg"
+    ],
+    "description": [
+      "Emulator for the",
+      "Master System"
+    ],
+    "devs": [
+      "Markus95"
+    ],
+    "size": "119MB",
+    "categories": [
+      "emulator"
+    ]
+  },
+  {
+    "titleid": "CUSB00002",
+    "version": "01.00",
+    "contentid": "UP9000-CUSB00002_00-SCUS974900000001",
+    "type": "game",
+    "name": "Emu Mégadrive/Genesis (PS2)",
+    "icon": "http://brew.ga/Megadrive-Genesis_(PS2).pkg.icon0.png",
+    "links": [
+      "http://brew.ga/Megadrive-Genesis_(PS2).pkg"
+    ],
+    "description": [
+      "Emulator for the",
+      "Mégadrive/Genesis"
+    ],
+    "devs": [
+      "Markus95"
+    ],
+    "size": "26MB",
+    "categories": [
+      "emulator"
+    ]
+  },
+  {
+    "titleid": "CUSA05214",
+    "version": "01.00",
+    "contentid": "UP8813-CUSA05214_00-WATCHESPNPS40000",
+    "type": "game",
+    "name": "ESPN",
+    "icon": "http://brew.ga/espn.pkg.icon0.png",
+    "links": [
+      "http://brew.ga/espn.pkg"
+    ],
+    "description": [
+      "NoPSN Version of ESPN",
+      " NA ONLY"
+    ],
+    "devs": [
+      "HK31"
+    ],
+    "size": "154MB",
+    "categories": [
+      "media"
+    ]
+  },
+  {
+    "titleid": "NPXX33382",
+    "version": "03.00",
+    "contentid": "HW1633-NPXX33382_00-HOMEBREWSSSSSSSS",
+    "type": "game",
+    "name": "File Manager for PS4™",
+    "icon": "http://brew.ga/FS-MANAGER.pkg.icon0.png",
+    "links": [
+      "http://brew.ga/FS-MANAGER.pkg"
+    ],
+    "description": [
+      "Name says it all"
+    ],
+    "devs": [
+      "LM"
+    ],
+    "size": "72MB",
+    "categories": [
+      "utility"
+    ]
+  },
+  {
+    "titleid": "BORC00018",
+    "version": "01.00",
+    "contentid": "UP9000-BORC00018_00-BORC000180000001",
+    "type": "game",
+    "name": "Golden Axe Curse Of The Death Adder",
+    "icon": "http://brew.ga/GOLDEN_AXE_CURSE_OF_THE_DEATH_ADDER.pkg.icon0.png",
+    "links": [
+      "http://brew.ga/GOLDEN_AXE_CURSE_OF_THE_DEATH_ADDER.pkg"
+    ],
+    "description": [
+      "Homebrew Version of",
+      "Golden Axe"
+    ],
+    "devs": [
+      "TheheroGAC"
+    ],
+    "size": "56MB",
+    "categories": [
+      "game"
+    ]
+  },
+  {
+    "titleid": "NPXX52599",
+    "version": "01.00",
+    "contentid": "CH1105-NPXX52599_00-0000000000000000",
+    "type": "game",
+    "name": "Greedy Guts Gary",
+    "icon": "http://brew.ga/CH1105-NPXX52599_00-0000000000000000-A0100-V0100.pkg.icon0.png",
+    "links": [
+      "http://brew.ga/CH1105-NPXX52599_00-0000000000000000-A0100-V0100.pkg"
+    ],
+    "description": [
+      "Android Port"
+    ],
+    "devs": [
+      "chossy"
+    ],
+    "size": "87MB",
+    "categories": [
+      "game"
+    ]
+  },
+  {
+    "titleid": "CUSA00000",
+    "version": "01.00",
+    "contentid": "UP9000-CUSA00000_00-SCUS974900000001",
+    "type": "game",
+    "name": "Half-Life Blue Shift",
+    "icon": "http://brew.ga/Half-Life_Blue_Shift.pkg.icon0.png",
+    "links": [
+      "http://brew.ga/Half-Life_Blue_Shift.pkg"
+    ],
+    "description": [
+      "Homebrew Version of",
+      "Half-Life:",
+      "Blue Shift"
+    ],
+    "devs": [
+      "Markus95"
+    ],
+    "size": "369MB",
+    "categories": [
+      "game"
+    ]
+  },
+  {
+    "titleid": "CUSA05223",
+    "version": "01.00",
+    "contentid": "UP2084-CUSA05223_00-HBONOWPS40000000",
+    "type": "game",
+    "name": "HBO Max",
+    "icon": "http://brew.ga/hbo.pkg.icon0.png",
+    "links": [
+      "http://brew.ga/hbo.pkg"
+    ],
+    "description": [
+      "NoPSN Version of this app",
+      " US Version"
+    ],
+    "devs": [
+      "HK31"
+    ],
+    "size": "68MB",
+    "categories": [
+      "media"
+    ]
+  },
+  {
+    "titleid": "CUSA00131",
+    "version": "01.00",
+    "contentid": "UT0008-CUSA00131_00-TESSERACT0000001",
+    "type": "game",
+    "name": "Hulu",
+    "icon": "http://brew.ga/hulu.pkg.icon0.png",
+    "links": [
+      "http://brew.ga/hulu.pkg"
+    ],
+    "description": [
+      "NoPSN Version of this app",
+      " US Version"
+    ],
+    "devs": [
+      "HK31"
+    ],
+    "size": "61MB",
+    "categories": [
+      "media"
+    ]
+  },
+  {
+    "titleid": "LAPY20007",
+    "version": "01.05",
+    "contentid": "ED1234-LAPY20007_00-0000000000000000",
+    "type": "game",
+    "name": "Icon Mask",
+    "icon": "http://brew.ga/icon.pkg.icon0.png",
+    "links": [
+      "http://brew.ga/icon.pkg"
+    ],
+    "description": [
+      "App to change PS4 App icons"
+    ],
+    "devs": [
+      "Lapy"
+    ],
+    "size": "52MB",
+    "categories": [
+      "utility"
+    ]
+  },
+  {
+    "titleid": "BREW91909",
+    "version": "1.00",
+    "contentid": "IV0000-BREW91909_00-NIKPS4HOMEBREW00",
+    "type": "game",
+    "name": "Is it, or isn't?",
+    "icon": "http://brew.ga/1609298006IV0000-BREW91909_00-NIKPS4HOMEBREW00.pkg.icon0.png",
+    "links": [
+      "http://brew.ga/1609298006IV0000-BREW91909_00-NIKPS4HOMEBREW00.pkg"
+    ],
+    "description": [
+      "cats"
+    ],
+    "devs": [
+      "nkrapivin "
+    ],
+    "size": "15MB",
+    "categories": [
+      "hb game"
+    ]
+  },
+  {
+    "titleid": "BBFF12362",
+    "version": "01.00",
+    "contentid": "ED6433-BBFF12362_00-0000000000000000",
+    "type": "game",
+    "name": "Kill'em All",
+    "icon": "http://brew.ga/ED6433-BBFF12362_00-0000000000000000-A0100-V0100.pkg.icon0.png",
+    "links": [
+      "http://brew.ga/ED6433-BBFF12362_00-0000000000000000-A0100-V0100.pkg"
+    ],
+    "description": [
+      "Title says it all"
+    ],
+    "devs": [
+      "RetroGamer"
+    ],
+    "size": "1358MB",
+    "categories": [
+      "hb game"
+    ]
+  },
+  {
+    "titleid": "LAPY10012",
+    "version": "01.00",
+    "contentid": "ED1234-LAPY10012_00-0000000000000000",
+    "type": "game",
+    "name": "Lapy Games Collection",
+    "icon": "http://brew.ga/LapyGamesCollection.pkg.icon0.png",
+    "links": [
+      "http://brew.ga/LapyGamesCollection.pkg"
+    ],
+    "description": [
+      "Collection of",
+      "Lappy games"
+    ],
+    "devs": [
+      "Lapy"
+    ],
+    "size": "409MB",
+    "categories": [
+      "hb game"
+    ]
+  },
+  {
+    "titleid": "LAPY10014",
+    "version": "01.00",
+    "contentid": "ED1234-LAPY10014_00-0000000000000000",
+    "type": "game",
+    "name": "Lapy's River Raid",
+    "icon": "http://brew.ga/lraid.pkg.icon0.png",
+    "links": [
+      "http://brew.ga/lraid.pkg"
+    ],
+    "description": [
+      "Hombrew Game",
+      "Unity"
+    ],
+    "devs": [
+      "Lapy"
+    ],
+    "size": "144MB",
+    "categories": [
+      "game"
+    ]
+  },
+  {
+    "titleid": "NPXX33392",
+    "version": "03.00",
+    "contentid": "HW1633-NPXX33392_00-HOMEBREWSSSSSSSS",
+    "type": "game",
+    "name": "LibOrbis PKG Loader Sample",
+    "icon": "http://brew.ga/LIBORBIS-SAMPLE.pkg.icon0.png",
+    "links": [
+      "http://brew.ga/LIBORBIS-SAMPLE.pkg"
+    ],
+    "description": [
+      "Tetris Clone made",
+      "using LibOrbis"
+    ],
+    "devs": [
+      "MasterZorag"
+    ],
+    "size": "11MB",
+    "categories": [
+      "game"
+    ]
+  },
+  {
+    "titleid": "BREW00179",
+    "version": "1.00",
+    "contentid": "IV0000-BREW00179_00-LOGMEINHAMACHI00",
+    "type": "game",
+    "name": "LogMeIn Hamachi (UNOFFICIAL)",
+    "icon": "http://brew.ga/IV0000-BREW00179_00-LOGMEINHAMACHI00.pkg.icon0.png",
+    "links": [
+      "http://brew.ga/IV0000-BREW00179_00-LOGMEINHAMACHI00.pkg"
+    ],
+    "description": [
+      " LogMeIn Hamachi port",
+      " HEN supported"
+    ],
+    "devs": [
+      "Sleirsgoevy"
+    ],
+    "size": "8MB",
+    "categories": [
+      "utility"
+    ]
+  },
+  {
+    "titleid": "NPXX51363",
+    "version": "01.00",
+    "contentid": "ED1634-NPXX51363_00-0000000000000000",
+    "type": "game",
+    "name": "MediaPlayer PS4",
+    "icon": "http://brew.ga/ED1634-NPXX51363_00-0000000000000000-A0100-V0100.pkg.icon0.png",
+    "links": [
+      "http://brew.ga/ED1634-NPXX51363_00-0000000000000000-A0100-V0100.pkg"
+    ],
+    "description": [
+      "MP4 player with",
+      "Sound made using",
+      "Unity"
+    ],
+    "devs": [
+      "RetroGamer74"
+    ],
+    "size": "111MB",
+    "categories": [
+      "utility"
+    ]
+  },
+  {
+    "titleid": "MEDN00001",
+    "version": "01.00",
+    "contentid": "UP9000-MEDN00001_00-SCUS974900000001",
+    "type": "game",
+    "name": "Mednafen",
+    "icon": "http://brew.ga/mednafen.pkg.icon0.png",
+    "links": [
+      "http://brew.ga/mednafen.pkg"
+    ],
+    "description": [
+      "Multi-System",
+      "Emulator"
+    ],
+    "devs": [
+      "Znullptr"
+    ],
+    "size": "32MB",
+    "categories": [
+      "emulator"
+    ]
+  },
+  {
+    "titleid": "BORC00024",
+    "version": "01.00",
+    "contentid": "UP9000-BORC00024_00-BORC000240000001",
+    "type": "game",
+    "name": "Mega Man War Of the Past",
+    "icon": "http://brew.ga/MEGA_MAN_WAR_OF_THE_PAST.pkg.icon0.png",
+    "links": [
+      "http://brew.ga/MEGA_MAN_WAR_OF_THE_PAST.pkg"
+    ],
+    "description": [
+      "Homebrew Game"
+    ],
+    "devs": [
+      "TheheroGAC"
+    ],
+    "size": "102MB",
+    "categories": [
+      "game"
+    ]
+  },
+  {
+    "titleid": "ZZZZ00002",
+    "version": "01.00",
+    "contentid": "UP9000-ZZZZ00002_00-MGBA000000000000",
+    "type": "game",
+    "name": "mGBA",
+    "icon": "http://brew.ga/mgba.pkg.icon0.png",
+    "links": [
+      "http://brew.ga/mgba.pkg"
+    ],
+    "description": [
+      "GBA Emulator",
+      "Add all roms to a folder in /data via ftp"
+    ],
+    "devs": [
+      "Znullptr"
+    ],
+    "size": "8MB",
+    "categories": [
+      "emulator"
+    ]
+  },
+  {
+    "titleid": "BORP09801",
+    "version": "01.00",
+    "contentid": "UP9000-BORP09801_00-BORP098010000001",
+    "type": "game",
+    "name": "Mortal Kombat Konquest",
+    "icon": "http://brew.ga/MORTAL_KOMBAT_KONQUEST.pkg.icon0.png",
+    "links": [
+      "http://brew.ga/MORTAL_KOMBAT_KONQUEST.pkg"
+    ],
+    "description": [
+      "Homebrew Version of",
+      "Mortal Kombat"
+    ],
+    "devs": [
+      "TheheroGAC"
+    ],
+    "size": "185MB",
+    "categories": [
+      "game"
+    ]
+  },
+  {
+    "titleid": "LAPY10016",
+    "version": "01.00",
+    "contentid": "ED1234-LAPY10016_00-0000000000000000",
+    "type": "game",
+    "name": "NanoSpeed Gamer",
+    "icon": "http://brew.ga/NanospeedPS4.pkg.icon0.png",
+    "links": [
+      "http://brew.ga/NanospeedPS4.pkg"
+    ],
+    "description": [
+      "Hombrew Game",
+      ".",
+      "Unity"
+    ],
+    "devs": [
+      "Lapy"
+    ],
+    "size": "99MB",
+    "categories": [
+      "game"
+    ]
+  },
+  {
+    "titleid": "SLUS26912",
+    "version": "01.00",
+    "contentid": "UP9000-SLUS26912_00-SLUS269120000001",
+    "type": "game",
+    "name": "Neo Thunder",
+    "icon": "http://brew.ga/UP9000-SLUS26912_00-SLUS269120000001-A0100-V0100.pkg.icon0.png",
+    "links": [
+      "http://brew.ga/UP9000-SLUS26912_00-SLUS269120000001-A0100-V0100.pkg"
+    ],
+    "description": [
+      "Homebrew Game"
+    ],
+    "devs": [
+      "TOXXIC407",
+      " Sebastian Mihai",
+      " 7he D4RK H4CK"
+    ],
+    "size": "29MB",
+    "categories": [
+      "game"
+    ]
+  },
+  {
+    "titleid": "CUSA00127",
+    "version": "01.00",
+    "contentid": "EP4350-CUSA00127_00-NETFLIXPOLLUX001",
+    "type": "game",
+    "name": "Netflix",
+    "icon": "http://brew.ga/netflix.pkg.icon0.png",
+    "links": [
+      "http://brew.ga/netflix.pkg"
+    ],
+    "description": [
+      "NoPSN Version of this app",
+      " EU Version"
+    ],
+    "devs": [
+      "HK31"
+    ],
+    "size": "62MB",
+    "categories": [
+      "media"
+    ]
+  },
+  {
+    "titleid": "BORR00044",
+    "version": "01.00",
+    "contentid": "UP9000-BORR00044_00-BORR000440000001",
+    "type": "game",
+    "name": "Night Slashers X",
+    "icon": "http://brew.ga/Night Slashers X.pkg.icon0.png",
+    "links": [
+      "http://brew.ga/Night Slashers X.pkg"
+    ],
+    "description": [
+      "Night Slashers X is a completely free remake of the classic console game Night Slasher",
+      " for computers. This 'beat em up' is similar to the 'Final Fight'; in it",
+      " players take on the role of one of the bloody vampire-killers."
+    ],
+    "devs": [
+      "TheheroGAC"
+    ],
+    "size": "49MB",
+    "categories": [
+      "games"
+    ]
+  },
+  {
+    "titleid": "BREW00080",
+    "version": "1.00",
+    "contentid": "IV0000-BREW00080_00-AUDIOWAVEX000000",
+    "type": "game",
+    "name": "OpenOrbis Audio Sample",
+    "icon": "http://brew.ga/1609299139IV0000-BREW00080_00-AUDIOWAVEX000000.pkg.icon0.png",
+    "links": [
+      "http://brew.ga/1609299139IV0000-BREW00080_00-AUDIOWAVEX000000.pkg"
+    ],
+    "description": [
+      "WAV Sample from OOSDK"
+    ],
+    "devs": [
+      "Specter"
+    ],
+    "size": "30MB",
+    "categories": [
+      "utility"
+    ]
+  },
+  {
+    "titleid": "BREW00081",
+    "version": "1.01",
+    "contentid": "IV0000-BREW00081_00-FONTDRAWEX000000",
+    "type": "game",
+    "name": "OpenOrbis Font Sample",
+    "icon": "http://brew.ga/1609299961IV0000-BREW00081_00-FONTDRAWEX000000.pkg.icon0.png",
+    "links": [
+      "http://brew.ga/1609299961IV0000-BREW00081_00-FONTDRAWEX000000.pkg"
+    ],
+    "description": [
+      "Font sample from OOSDK"
+    ],
+    "devs": [
+      "Specter"
+    ],
+    "size": "7MB",
+    "categories": [
+      "utility"
+    ]
+  },
+  {
+    "titleid": "BREW00082",
+    "version": "1.00",
+    "contentid": "IV0000-BREW00082_00-GRAPHICSEX000000",
+    "type": "game",
+    "name": "OpenOrbis Graphics Sample",
+    "icon": "http://brew.ga/1609299319IV0000-BREW00082_00-GRAPHICSEX000000.pkg.icon0.png",
+    "links": [
+      "http://brew.ga/1609299319IV0000-BREW00082_00-GRAPHICSEX000000.pkg"
+    ],
+    "description": [
+      "Graphics sample from the OOSDK"
+    ],
+    "devs": [
+      "Specter"
+    ],
+    "size": "7MB",
+    "categories": [
+      "utility"
+    ]
+  },
+  {
+    "titleid": "BREW00084",
+    "version": "1.02",
+    "contentid": "IV0000-BREW00084_00-CONTROLREX000000",
+    "type": "game",
+    "name": "OpenOrbis Input Sample",
+    "icon": "http://brew.ga/1609298956IV0000-BREW00084_00-CONTROLREX000000.pkg.icon0.png",
+    "links": [
+      "http://brew.ga/1609298956IV0000-BREW00084_00-CONTROLREX000000.pkg"
+    ],
+    "description": [
+      "Input sample from the OOSDK"
+    ],
+    "devs": [
+      "Specter"
+    ],
+    "size": "7MB",
+    "categories": [
+      "utility"
+    ]
+  },
+  {
+    "titleid": "BREW00086",
+    "version": "1.02",
+    "contentid": "IV0000-BREW00086_00-IPNGDRAWEX000000",
+    "type": "game",
+    "name": "OpenOrbis PNG Sample",
+    "icon": "http://brew.ga/1609299757IV0000-BREW00086_00-IPNGDRAWEX000000.pkg.icon0.png",
+    "links": [
+      "http://brew.ga/1609299757IV0000-BREW00086_00-IPNGDRAWEX000000.pkg"
+    ],
+    "description": [
+      "PNGDEC sample from OOSDK"
+    ],
+    "devs": [
+      "Specter"
+    ],
+    "size": "7MB",
+    "categories": [
+      "utility"
+    ]
+  },
+  {
+    "titleid": "BREW00090",
+    "version": "1.00",
+    "contentid": "IV0000-BREW00090_00-SDLEXAMPLE000000",
+    "type": "game",
+    "name": "OpenOrbis SDL Sample",
+    "icon": "http://brew.ga/1609297592IV0000-BREW00090_00-SDLEXAMPLE000000.pkg.icon0.png",
+    "links": [
+      "http://brew.ga/1609297592IV0000-BREW00090_00-SDLEXAMPLE000000.pkg"
+    ],
+    "description": [
+      "Space shooter"
+    ],
+    "devs": [
+      "Specter"
+    ],
+    "size": "7MB",
+    "categories": [
+      "hb game"
+    ]
+  },
+  {
+    "titleid": "BREW00088",
+    "version": "1.02",
+    "contentid": "IV0000-BREW00088_00-GETUSRIDEX000000",
+    "type": "game",
+    "name": "OpenOrbis System Sample",
+    "icon": "http://brew.ga/1609300215IV0000-BREW00088_00-GETUSRIDEX000000.pkg.icon0.png",
+    "links": [
+      "http://brew.ga/1609300215IV0000-BREW00088_00-GETUSRIDEX000000.pkg"
+    ],
+    "description": [
+      "System sample from the OOSDK"
+    ],
+    "devs": [
+      "Specter"
+    ],
+    "size": "7MB",
+    "categories": [
+      "utility"
+    ]
+  },
+  {
+    "titleid": "OPEN00001",
+    "version": "01.01",
+    "contentid": "IV0001-OPEN00001_00-OPEN000010000000",
+    "type": "game",
+    "name": "OpenTyrian @ cpasjuste",
+    "icon": "http://brew.ga/OpenTyrian.pkg.icon0.png",
+    "links": [
+      "http://brew.ga/OpenTyrian.pkg"
+    ],
+    "description": [
+      "OpenTyrian GL Port"
+    ],
+    "devs": [
+      "Cpasjuste"
+    ],
+    "size": "19MB",
+    "categories": [
+      "hb game"
+    ]
+  },
+  {
+    "titleid": "FMSX00000",
+    "version": "01.00",
+    "contentid": "IV0002-FMSX00000_00-AABBCCDD00000000",
+    "type": "game",
+    "name": "Orbis MSX",
+    "icon": "http://brew.ga/IV0002-FMSX00000_00-AABBCCDD00000000-A0100-V0100.pkg.icon0.png",
+    "links": [
+      "http://brew.ga/IV0002-FMSX00000_00-AABBCCDD00000000-A0100-V0100.pkg"
+    ],
+    "description": [
+      "MSX Emulator",
+      "for PS4"
+    ],
+    "devs": [
+      "BigBoss"
+    ],
+    "size": "11MB",
+    "categories": [
+      "emulator"
+    ]
+  },
+  {
+    "titleid": "NPXX33362",
+    "version": "03.00",
+    "contentid": "HW1633-NPXX33362_00-HOMEBREWSSSSSSSS",
+    "type": "game",
+    "name": "ORBISMAN (BETA)",
+    "icon": "http://brew.ga/ORBISMAN_BETA.pkg.icon0.png",
+    "links": [
+      "http://brew.ga/ORBISMAN_BETA.pkg"
+    ],
+    "description": [
+      "Utility App",
+      "similar to",
+      "Multiman"
+    ],
+    "devs": [
+      "LM"
+    ],
+    "size": "95MB",
+    "categories": [
+      "utility"
+    ]
+  },
+  {
+    "titleid": "LAPY10004",
+    "version": "01.03",
+    "contentid": "ED1234-LAPY10004_00-0000000000000000",
+    "type": "game",
+    "name": "Overcome",
+    "icon": "http://brew.ga/Overcome.pkg.icon0.png",
+    "links": [
+      "http://brew.ga/Overcome.pkg"
+    ],
+    "description": [
+      "HB Game",
+      "for the PS4"
+    ],
+    "devs": [
+      "Lapy"
+    ],
+    "size": "84MB",
+    "categories": [
+      "hb game"
+    ]
+  },
+  {
+    "titleid": "LAPY10005",
+    "version": "01.00",
+    "contentid": "ED1234-LAPY10005_00-0000000000000000",
+    "type": "game",
+    "name": "Overcome Save the Girl",
+    "icon": "http://brew.ga/OvercomeSTG.pkg.icon0.png",
+    "links": [
+      "http://brew.ga/OvercomeSTG.pkg"
+    ],
+    "description": [
+      "A version of Overcome dedicated to a scener friend who:",
+      "liked to see girls die",
+      " do you know him?"
+    ],
+    "devs": [
+      "Lapy"
+    ],
+    "size": "97MB",
+    "categories": [
+      "hb game"
+    ]
+  },
+  {
+    "titleid": "PCMN99999",
+    "version": "01.00",
+    "contentid": "TX0000-PCMN99999_00-0000000000PACMAN",
+    "type": "game",
+    "name": "pacman",
+    "icon": "http://brew.ga/TX0000-PCMN99999_00-0000000000PACMAN-A0100-V0100.pkg.icon0.png",
+    "links": [
+      "http://brew.ga/TX0000-PCMN99999_00-0000000000PACMAN-A0100-V0100.pkg"
+    ],
+    "description": [
+      "pacman Clone"
+    ],
+    "devs": [
+      "vilbeyli",
+      " TOXXIC407"
+    ],
+    "size": "65MB",
+    "categories": [
+      "game"
+    ]
+  },
+  {
+    "titleid": "CUSA05365",
+    "version": "01.00",
+    "contentid": "UP8815-CUSA05365_00-CBSIALLACCESSPS4",
+    "type": "game",
+    "name": "Paramount+",
+    "icon": "http://brew.ga/paramount.pkg.icon0.png",
+    "links": [
+      "http://brew.ga/paramount.pkg"
+    ],
+    "description": [
+      "NoPSN Version of this app",
+      " NA Only"
+    ],
+    "devs": [
+      "HK31"
+    ],
+    "size": "77MB",
+    "categories": [
+      "media"
+    ]
+  },
+  {
+    "titleid": "AZIF00003",
+    "version": "0.97",
+    "contentid": "IV0000-AZIF00003_00-PAYLOADGUEST0000",
+    "type": "game",
+    "name": "Payload Guest",
+    "icon": "http://brew.ga/guest.pkg.icon0.png",
+    "links": [
+      "http://brew.ga/guest.pkg"
+    ],
+    "description": [
+      "App to launch Payloads from a USB"
+    ],
+    "devs": [
+      "AlAzif"
+    ],
+    "size": "34MB",
+    "categories": [
+      "utility"
+    ]
+  },
+  {
+    "titleid": "FLTZ00001",
+    "version": "01.00",
+    "contentid": "UP9000-FLTZ00001_00-PAYLOADLDR000000",
+    "type": "game",
+    "name": "Payload Loader",
+    "icon": "http://brew.ga/payload_ldr_v3.pkg.icon0.png",
+    "links": [
+      "http://brew.ga/payload_ldr_v3.pkg"
+    ],
+    "description": [
+      "Payload Loader",
+      "for the ELFs"
+    ],
+    "devs": [
+      "Flatz"
+    ],
+    "size": "8MB",
+    "categories": [
+      "utility"
+    ]
+  },
+  {
+    "titleid": "PCSX00002",
+    "version": "01.00",
+    "contentid": "UP9000-PCSX00002_00-MGBA000000000000",
+    "type": "game",
+    "name": "Pcsxr (Playstation)",
+    "icon": "http://brew.ga/1609545142psx.pkg.icon0.png",
+    "links": [
+      "http://brew.ga/1609545142psx.pkg"
+    ],
+    "description": [
+      "PS1 emu"
+    ],
+    "devs": [
+      "Znullptr"
+    ],
+    "size": "7MB",
+    "categories": [
+      "emulator"
+    ]
+  },
+  {
+    "titleid": "PKGI00001",
+    "version": "01.00",
+    "contentid": "IV0000-PKGI00001_00-YYYYYYYYYY000000",
+    "type": "game",
+    "name": "PKGi",
+    "icon": "http://brew.ga/1609298435IV0000-PKGI00001_00-YYYYYYYYYY000000 (2).pkg.icon0.png",
+    "links": [
+      "http://brew.ga/1609298435IV0000-PKGI00001_00-YYYYYYYYYY000000 (2).pkg"
+    ],
+    "description": [
+      "repo downloader",
+      "Needs Mira"
+    ],
+    "devs": [
+      "ThoeryWrong"
+    ],
+    "size": "4MB",
+    "categories": [
+      "utility"
+    ]
+  },
+  {
+    "titleid": "CUSA01850",
+    "version": "01.02",
+    "contentid": "UP4544-CUSA01850_00-PLEX000000000000",
+    "type": "game",
+    "name": "Plex",
+    "icon": "http://brew.ga/Plex_NoPSN_MainScreen.pkg.icon0.png",
+    "links": [
+      "http://brew.ga/Plex_NoPSN_MainScreen.pkg"
+    ],
+    "description": [
+      "Patched Plex",
+      ".",
+      "a.k.a No PSN"
+    ],
+    "devs": [
+      "HK31"
+    ],
+    "size": "61MB",
+    "categories": [
+      "media"
+    ]
+  },
+  {
+    "titleid": "CUSA36666",
+    "version": "01.00",
+    "contentid": "UP9000-CUSA36666_00-SCUS974900000001",
+    "type": "game",
+    "name": "PlisskenDooM v4",
+    "icon": "http://brew.ga/UP9000-CUSA36666_00-SCUS974900000001-A0100-V0100.pkg.icon0.png",
+    "links": [
+      "http://brew.ga/UP9000-CUSA36666_00-SCUS974900000001-A0100-V0100.pkg"
+    ],
+    "description": [
+      "DooM Clone"
+    ],
+    "devs": [
+      "SnakePlissken"
+    ],
+    "size": "162MB",
+    "categories": [
+      "game"
+    ]
+  },
+  {
+    "titleid": "CUSA04688",
+    "version": "01.01",
+    "contentid": "UP8809-CUSA04688_00-0000000000000001",
+    "type": "game",
+    "name": "Pluto TV",
+    "icon": "http://brew.ga/pluto.pkg.icon0.png",
+    "links": [
+      "http://brew.ga/pluto.pkg"
+    ],
+    "description": [
+      "NoPSN USA Version of this app"
+    ],
+    "devs": [
+      "HK31"
+    ],
+    "size": "51MB",
+    "categories": [
+      "media"
+    ]
+  },
+  {
+    "titleid": "PNES00001",
+    "version": "05.00",
+    "contentid": "IV0001-PNES00001_00-PNES000010000500",
+    "type": "game",
+    "name": "pNES - Portable Nestopia",
+    "icon": "http://brew.ga/pnes.pkg.icon0.png",
+    "links": [
+      "http://brew.ga/pnes.pkg"
+    ],
+    "description": [
+      "create /data/pnes directory on hdd\r\n\r\n",
+      "copy roms to /data/pnes/roms directory on hdd\r\n\r\n"
+    ],
+    "devs": [
+      "Cpasjuste"
+    ],
+    "size": "20MB",
+    "categories": [
+      "emulator"
+    ]
+  },
+  {
+    "titleid": "PONG00000",
+    "version": "01.00",
+    "contentid": "TX0000-PONG00000_00-0000000000TOXXIC",
+    "type": "game",
+    "name": "Pong",
+    "icon": "http://brew.ga/TX0000-PONG00000_00-0000000000TOXXIC-A0100-V0100.pkg.icon0.png",
+    "links": [
+      "http://brew.ga/TX0000-PONG00000_00-0000000000TOXXIC-A0100-V0100.pkg"
+    ],
+    "description": [
+      "Pong Clone"
+    ],
+    "devs": [
+      "awesome inc u",
+      " TOXXIC407"
+    ],
+    "size": "67MB",
+    "categories": [
+      "game"
+    ]
+  },
+  {
+    "titleid": "PFBN00001",
+    "version": "05.00",
+    "contentid": "IV0001-PFBN00001_00-PFBN000010000500",
+    "type": "game",
+    "name": "Portable Final Burn Neo",
+    "icon": "http://brew.ga/pfbneo.pkg.icon0.png",
+    "links": [
+      "http://brew.ga/pfbneo.pkg"
+    ],
+    "description": [
+      "create /data/pfba directory on hdd",
+      "copy roms to /data/pfba/roms directory on hdd"
+    ],
+    "devs": [
+      "cpasjuste"
+    ],
+    "size": "114MB",
+    "categories": [
+      "emulator"
+    ]
+  },
+  {
+    "titleid": "LAPY10010",
+    "version": "01.01",
+    "contentid": "ED1234-LAPY10010_00-0000000000000000",
+    "type": "game",
+    "name": "PS Scene Quiz",
+    "icon": "http://brew.ga/LAPY10010.pkg.icon0.png",
+    "links": [
+      "http://brew.ga/LAPY10010.pkg"
+    ],
+    "description": [
+      "As its name suggests",
+      " it is a quiz game",
+      "in homage to our beloved PS4 Scene and its loyal developers."
+    ],
+    "devs": [
+      "Lapy"
+    ],
+    "size": "250MB",
+    "categories": [
+      "hb game"
+    ]
+  },
+  {
+    "titleid": "LAPY20004",
+    "version": "01.06",
+    "contentid": "ED1234-LAPY20004_00-0000000000000000",
+    "type": "game",
+    "name": "PS4 App Lock",
+    "icon": "http://brew.ga/lock.pkg.icon0.png",
+    "links": [
+      "http://brew.ga/lock.pkg"
+    ],
+    "description": [
+      "HB for Lock PKG",
+      ". ",
+      "Unity"
+    ],
+    "devs": [
+      "Lapy"
+    ],
+    "size": "52MB",
+    "categories": [
+      "utility"
+    ]
+  },
+  {
+    "titleid": "NPXX51362",
+    "version": "01.00",
+    "contentid": "ED1633-NPXX51362_00-0000000000000000",
+    "type": "game",
+    "name": "PS4 Controller Homebrew",
+    "icon": "http://brew.ga/CONTROLLERHOMEBREW.pkg.icon0.png",
+    "links": [
+      "http://brew.ga/CONTROLLERHOMEBREW.pkg"
+    ],
+    "description": [
+      "PS4 Controller",
+      "Test"
+    ],
+    "devs": [
+      "LM"
+    ],
+    "size": "110MB",
+    "categories": [
+      "utility"
+    ]
+  },
+  {
+    "titleid": "CUSA02012",
+    "version": "01.00",
+    "contentid": "IP9100-CUSA02012_00-PS4MEDIAPLAYER00",
+    "type": "game",
+    "name": "Media Player",
+    "icon": "http://brew.ga/mediap.pkg.icon0.png",
+    "links": [
+      "http://brew.ga/mediap.pkg"
+    ],
+    "description": [
+      "The Official PS4 Media Player app",
+      " NoPSN",
+      "Download the modded patch here: http://api.pkg-zone.com/pkgs/mediap-patch.pkg"
+    ],
+    "devs": [
+      "HK31"
+    ],
+    "size": "17MB",
+    "categories": [
+      "media"
+    ]
+  },
+  {
+    "titleid": "BREW34965",
+    "version": "1.00",
+    "contentid": "IV0000-BREW34965_00-OLIPS4PICO800000",
+    "type": "game",
+    "name": "PS4 P-8",
+    "icon": "http://brew.ga/pico8.pkg.icon0.png",
+    "links": [
+      "http://brew.ga/pico8.pkg"
+    ],
+    "description": [
+      "Pico-8 is a Fantasy Programmable Console made by Lexaloffle Games.",
+      "This emulator is compatible with built pico-8 cartridges in PNG format",
+      "Games will be loaded in runtime from PS4's /data/p8-cartridges folder."
+    ],
+    "devs": [
+      "Victor Oliva"
+    ],
+    "size": "7MB",
+    "categories": [
+      "emulator"
+    ]
+  },
+  {
+    "titleid": "LAPY20002",
+    "version": "01.06",
+    "contentid": "ED1234-LAPY20002_00-0000000000000000",
+    "type": "game",
+    "name": "PS4 Player",
+    "icon": "http://brew.ga/ED1234-LAPY20002_00-0000000000000000-A0100-V0100.pkg.icon0.png",
+    "links": [
+      "http://brew.ga/ED1234-LAPY20002_00-0000000000000000-A0100-V0100.pkg"
+    ],
+    "description": [
+      "Video Player",
+      "for the PS4"
+    ],
+    "devs": [
+      "Lapy"
+    ],
+    "size": "50MB",
+    "categories": [
+      "utility"
+    ]
+  },
+  {
+    "titleid": "XDPX20006",
+    "version": "01.00",
+    "contentid": "ED1633-XDPX20006_00-0000000000000000",
+    "type": "game",
+    "name": "PS4 PluginX",
+    "icon": "http://brew.ga/PS4.PluginX.V1.0.pkg.icon0.png",
+    "links": [
+      "http://brew.ga/PS4.PluginX.V1.0.pkg"
+    ],
+    "description": [
+      "R3 -Copy files from usb folder (/usb0 or /usb1) to the correct folder ( Folder structure on USB will be /usb0/PluginX/CUSA0001)\r\n\r\n[] - Create the esential folders on usb (/usb0/PluginX/)"
+    ],
+    "devs": [
+      "xDPx"
+    ],
+    "size": "93MB",
+    "categories": [
+      "utility"
+    ]
+  },
+  {
+    "titleid": "LAPY20006",
+    "version": "01.06",
+    "contentid": "ED1234-LAPY20006_00-0000000000000000",
+    "type": "game",
+    "name": "PS4 Temperature",
+    "icon": "http://brew.ga/ps4temp.pkg.icon0.png",
+    "links": [
+      "http://brew.ga/ps4temp.pkg"
+    ],
+    "description": [
+      "PS4's APU Temp",
+      ".",
+      "Unity"
+    ],
+    "devs": [
+      "Lapy",
+      " LM",
+      " Zeco Al",
+      " Zer0xFF"
+    ],
+    "size": "49MB",
+    "categories": [
+      "utility"
+    ]
+  },
+  {
+    "titleid": "XDPX20004",
+    "version": "01.33",
+    "contentid": "ED1633-XDPX20004_00-0000000000000000",
+    "type": "game",
+    "name": "PS4 Tools",
+    "icon": "http://brew.ga/ED1633-XDPX20004_00-0000000000000000-A0100-V0133.pkg.icon0.png",
+    "links": [
+      "http://brew.ga/ED1633-XDPX20004_00-0000000000000000-A0100-V0133.pkg"
+    ],
+    "description": [
+      "PS4 Utility",
+      "Made with Unity"
+    ],
+    "devs": [
+      "xDPx"
+    ],
+    "size": "228MB",
+    "categories": [
+      "utility "
+    ]
+  },
+  {
+    "titleid": "NPXX52385",
+    "version": "01.00",
+    "contentid": "ED1685-NPXX52385_00-0000000000000000",
+    "type": "game",
+    "name": "PS4-GBEmu",
+    "icon": "http://brew.ga/ED1685-NPXX51385_00-0000000000000000-A0100-V0100.pkg.icon0.png",
+    "links": [
+      "http://brew.ga/ED1685-NPXX51385_00-0000000000000000-A0100-V0100.pkg"
+    ],
+    "description": [
+      "Emulator for the",
+      "Gameboy"
+    ],
+    "devs": [
+      "RetroGamer74 & Nazky"
+    ],
+    "size": "64MB",
+    "categories": [
+      "emulator"
+    ]
+  },
+  {
+    "titleid": "LAPY20001",
+    "version": "01.33",
+    "contentid": "ED1234-LAPY20001_00-0000000000000000",
+    "type": "game",
+    "name": "PS4-Xplorer",
+    "icon": "http://brew.ga/lapyexpl.pkg.icon0.png",
+    "links": [
+      "http://brew.ga/lapyexpl.pkg"
+    ],
+    "description": [
+      "File Manager for",
+      "the PS4"
+    ],
+    "devs": [
+      "Lapy",
+      " LM",
+      " xDP"
+    ],
+    "size": "71MB",
+    "categories": [
+      "utility"
+    ]
+  },
+  {
+    "titleid": "MRPH00001",
+    "version": "01.00",
+    "contentid": "DE0001-MRPH00001_00-RELEASE000000001",
+    "type": "game",
+    "name": "ps4Gearsystem",
+    "icon": "http://brew.ga/SEGA_EMU_V455.pkg.icon0.png",
+    "links": [
+      "http://brew.ga/SEGA_EMU_V455.pkg"
+    ],
+    "description": [
+      "Emulator for the",
+      "Sega Master System"
+    ],
+    "devs": [
+      "M0rph3us1987"
+    ],
+    "size": "7MB",
+    "categories": [
+      "emulator"
+    ]
+  },
+  {
+    "titleid": "PNES00001",
+    "version": "01.00",
+    "contentid": "EP0001-PNES00001_00-RELEASE000000001",
+    "type": "game",
+    "name": "PS4NES",
+    "icon": "http://brew.ga/EP0001-PNES00001_00-RELEASE000000001-A0100-V0101_V505.pkg.icon0.png",
+    "links": [
+      "http://brew.ga/EP0001-PNES00001_00-RELEASE000000001-A0100-V0101_V505.pkg"
+    ],
+    "description": [
+      "Emulator for the",
+      "NES"
+    ],
+    "devs": [
+      "M0rph3us1987"
+    ],
+    "size": "8MB",
+    "categories": [
+      "emulator"
+    ]
+  },
+  {
+    "titleid": "MRPH00002",
+    "version": "01.00",
+    "contentid": "DE0001-MRPH00002_00-RELEASE000000001",
+    "type": "game",
+    "name": "ps4NES",
+    "icon": "http://brew.ga/NES_EMU_V455.pkg.icon0.png",
+    "links": [
+      "http://brew.ga/NES_EMU_V455.pkg"
+    ],
+    "description": [
+      "Emulator for the",
+      "Nintendo Entertainment Station"
+    ],
+    "devs": [
+      "M0rph3us1987"
+    ],
+    "size": "7MB",
+    "categories": [
+      "emulator"
+    ]
+  },
+  {
+    "titleid": "AZIF00001",
+    "version": "1.02",
+    "contentid": "IV0000-AZIF00001_00-PS4VIBE000000000",
+    "type": "game",
+    "name": "PS4 Vibe",
+    "icon": "http://brew.ga/HW1633-VIBE00001_00-HOMEBREWSSSSSSSS-A0100-V0102.pkg.icon0.png",
+    "links": [
+      "http://brew.ga/HW1633-VIBE00001_00-HOMEBREWSSSSSSSS-A0100-V0102.pkg"
+    ],
+    "description": [
+      "Utility to Make",
+      "your Controller Vibrate"
+    ],
+    "devs": [
+      "AlAzif"
+    ],
+    "size": "7MB",
+    "categories": [
+      "utility"
+    ]
+  },
+  {
+    "titleid": "PSNE99999",
+    "version": "01.00",
+    "contentid": "TX0000-PSNE99999_00-0000000000TOXXIC",
+    "type": "game",
+    "name": "PSN-Enabler",
+    "icon": "http://brew.ga/TX0000-PSNE99999_00-0000000000TOXXIC.pkg.icon0.png",
+    "links": [
+      "http://brew.ga/TX0000-PSNE99999_00-0000000000TOXXIC.pkg"
+    ],
+    "description": [
+      "reenables PSN",
+      "to restore",
+      "online access"
+    ],
+    "devs": [
+      "TOXXIC407"
+    ],
+    "size": "90MB",
+    "categories": [
+      "utility"
+    ]
+  },
+  {
+    "titleid": "PSNE00001",
+    "version": "05.00",
+    "contentid": "IV0001-PSNE00001_00-PSNE000010000500",
+    "type": "game",
+    "name": "pSNES - Portable Snes9x",
+    "icon": "http://brew.ga/psnes.pkg.icon0.png",
+    "links": [
+      "http://brew.ga/psnes.pkg"
+    ],
+    "description": [
+      "create /data/psnes directory on hdd\r\n",
+      "copy roms to /data/psnes/roms directory on hdd"
+    ],
+    "devs": [
+      "Cpasjuste"
+    ],
+    "size": "22MB",
+    "categories": [
+      "emulator"
+    ]
+  },
+  {
+    "titleid": "QUIG00001",
+    "version": "01.00",
+    "contentid": "IV0000-QUIG00001_00-QUICKZGAME000001",
+    "type": "game",
+    "name": "Quickz Game\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+    "icon": "http://brew.ga/IV0000-QUIG00001_00-QUICKZGAME000001.pkg.icon0.png",
+    "links": [
+      "http://brew.ga/IV0000-QUIG00001_00-QUICKZGAME000001.pkg"
+    ],
+    "description": [
+      "Homebrew Game"
+    ],
+    "devs": [
+      "Quickz"
+    ],
+    "size": "18MB",
+    "categories": [
+      "game"
+    ]
+  },
+  {
+    "titleid": "ZZZZ00001",
+    "version": "01.00",
+    "contentid": "UP9000-ZZZZ00001_00-REICST0000000000",
+    "type": "game",
+    "name": "Reicast Beta",
+    "icon": "http://brew.ga/reicast-beta2.pkg.icon0.png",
+    "links": [
+      "http://brew.ga/reicast-beta2.pkg"
+    ],
+    "description": [
+      "Reicast Beta for PS4",
+      "Needs BOIS See Znullptr",
+      "HEN 1.9+ Required"
+    ],
+    "devs": [
+      "Znullptr"
+    ],
+    "size": "33MB",
+    "categories": [
+      "emulator"
+    ]
+  },
+  {
+    "titleid": "FLTZ00003",
+    "version": "01.00",
+    "contentid": "UP9000-FLTZ00003_00-REMOTEPKGINSTALL",
+    "type": "game",
+    "name": "Remote PKG installer",
+    "icon": "http://brew.ga/REMOTE_PACKAGE_INSTALLER.pkg.icon0.png",
+    "links": [
+      "http://brew.ga/REMOTE_PACKAGE_INSTALLER.pkg"
+    ],
+    "description": [
+      "Allows you to",
+      "install packages",
+      "remotely",
+      " Req. fself patches"
+    ],
+    "devs": [
+      "Flatz"
+    ],
+    "size": "5MB",
+    "categories": [
+      "utility"
+    ]
+  },
+  {
+    "titleid": "MARK00095",
+    "version": "01.00",
+    "contentid": "EP0000-MARK00095_00-0000000000000000",
+    "type": "game",
+    "name": "Resident Evil CODE: Ps4\u0000",
+    "icon": "http://brew.ga/Resident_Evil_CODE_Ps4_v0.2.PKG.icon0.png",
+    "links": [
+      "http://brew.ga/Resident_Evil_CODE_Ps4_v0.2.PKG"
+    ],
+    "description": [
+      "Resident Evil CODE for Ps4"
+    ],
+    "devs": [
+      "Markus420"
+    ],
+    "size": "26MB",
+    "categories": [
+      "game"
+    ]
+  },
+  {
+    "titleid": "UDAT99999",
+    "version": "01.00",
+    "contentid": "IV0002-UDAT99999_00-DTESTBTT00000000",
+    "type": "game",
+    "name": "ReSys - Hybrid Flasher",
+    "icon": "http://brew.ga/RESYS.pkg.icon0.png",
+    "links": [
+      "http://brew.ga/RESYS.pkg"
+    ],
+    "description": [
+      "Flashes a Debug Hybrid FW"
+    ],
+    "devs": [
+      "LM"
+    ],
+    "size": "1100MB",
+    "categories": [
+      "utility"
+    ]
+  },
+  {
+    "titleid": "CUSB00001",
+    "version": "01.00",
+    "contentid": "UP9000-CUSB00001_00-SCUS974900000001",
+    "type": "game",
+    "name": "RetroArch 2048 (PS2)",
+    "icon": "http://brew.ga/RetroArch_2048_(PS2).pkg.icon0.png",
+    "links": [
+      "http://brew.ga/RetroArch_2048_(PS2).pkg"
+    ],
+    "description": [
+      "2048 for PS4"
+    ],
+    "devs": [
+      "Markus95"
+    ],
+    "size": "66MB",
+    "categories": [
+      "emulator"
+    ]
+  },
+  {
+    "titleid": "SSNE20000",
+    "version": "01.00",
+    "contentid": "UP0001-SSNE20000_00-0000000000000001",
+    "type": "game",
+    "name": "RetroArch Cores Installer",
+    "icon": "http://brew.ga/Cores_Installer_r4.pkg.icon0.png",
+    "links": [
+      "http://brew.ga/Cores_Installer_r4.pkg"
+    ],
+    "description": [
+      "Core installer",
+      "For PS4 RetroArch",
+      "Needed for RetroArch"
+    ],
+    "devs": [
+      "OsirisX"
+    ],
+    "size": "1386MB",
+    "categories": [
+      "emulator add-on"
+    ]
+  },
+  {
+    "titleid": "CUSB99997",
+    "version": "01.00",
+    "contentid": "UP9000-CUSB99997_00-SCUS974900000001",
+    "type": "game",
+    "name": "RetroArch Picodrive (PS2)",
+    "icon": "http://brew.ga/Picodrive.pkg.icon0.png",
+    "links": [
+      "http://brew.ga/Picodrive.pkg"
+    ],
+    "description": [
+      "Emulator for the",
+      "Picodrive"
+    ],
+    "devs": [
+      "Markus95",
+      " fjtrujy"
+    ],
+    "size": "26MB",
+    "categories": [
+      "emulator"
+    ]
+  },
+  {
+    "titleid": "CUSB99999",
+    "version": "01.00",
+    "contentid": "UP9000-CUSB99999_00-SCUS974900000001",
+    "type": "game",
+    "name": "RetroArch QuickNES (PS2)",
+    "icon": "http://brew.ga/QuickNES.pkg.icon0.png",
+    "links": [
+      "http://brew.ga/QuickNES.pkg"
+    ],
+    "description": [
+      "Emulator for the",
+      "NES"
+    ],
+    "devs": [
+      "Markus95",
+      " fjtrujy"
+    ],
+    "size": "26MB",
+    "categories": [
+      "emulator"
+    ]
+  },
+  {
+    "titleid": "CUSA02222",
+    "version": "01.00",
+    "contentid": "UP9000-CUSA02222_00-SCUS974900000001",
+    "type": "game",
+    "name": "Rogue Galaxy™",
+    "icon": "http://brew.ga/ULAUNCHELF.pkg.icon0.png",
+    "links": [
+      "http://brew.ga/ULAUNCHELF.pkg"
+    ],
+    "description": [
+      "PS2 Elf Loader",
+      "ported to PS4"
+    ],
+    "devs": [
+      "DarkElementPL"
+    ],
+    "size": "103MB",
+    "categories": [
+      "utility"
+    ]
+  },
+  {
+    "titleid": "NPXX51365",
+    "version": "01.00",
+    "contentid": "ED1633-NPXX51365_00-0000000000000000",
+    "type": "game",
+    "name": "Roll The Ball for PS4",
+    "icon": "http://brew.ga/ROLLABALL.pkg.icon0.png",
+    "links": [
+      "http://brew.ga/ROLLABALL.pkg"
+    ],
+    "description": [
+      "Homebrew Game",
+      "made using Unity"
+    ],
+    "devs": [
+      "LM"
+    ],
+    "size": "138MB",
+    "categories": [
+      "game"
+    ]
+  },
+  {
+    "titleid": "NPXX10002",
+    "version": "01.01",
+    "contentid": "ED1234-NPXX10002_00-0000000000000000",
+    "type": "game",
+    "name": "Save The Scene",
+    "icon": "http://brew.ga/ED1234-NPXX10002_00-0000000000000000-A0100-V0101.pkg.icon0.png",
+    "links": [
+      "http://brew.ga/ED1234-NPXX10002_00-0000000000000000-A0100-V0101.pkg"
+    ],
+    "description": [
+      "Homebrew Game"
+    ],
+    "devs": [
+      "RetroGamer74",
+      " Lapy\r\n",
+      " Xalgovia"
+    ],
+    "size": "104MB",
+    "categories": [
+      "game"
+    ]
+  },
+  {
+    "titleid": "GMSP00006",
+    "version": "01.00",
+    "contentid": "IV0000-GMSP00006_00-GAMEMAKERSTUDIO0",
+    "type": "game",
+    "name": "SHEPHARD\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+    "icon": "http://brew.ga/IV0000-GMSP00006_00-GAMEMAKERSTUDIO0.pkg.icon0.png",
+    "links": [
+      "http://brew.ga/IV0000-GMSP00006_00-GAMEMAKERSTUDIO0.pkg"
+    ],
+    "description": [
+      "Homebrew Game"
+    ],
+    "devs": [
+      "Butterscotch Shenanigans",
+      " MasterTurkey"
+    ],
+    "size": "18MB",
+    "categories": [
+      "game"
+    ]
+  },
+  {
+    "titleid": "LAPY10007",
+    "version": "01.01",
+    "contentid": "ED1234-LAPY10007_00-0000000000000000",
+    "type": "game",
+    "name": "Shoot Test",
+    "icon": "http://brew.ga/shoottest.pkg.icon0.png",
+    "links": [
+      "http://brew.ga/shoottest.pkg"
+    ],
+    "description": [
+      "Shoot Test by Lappy"
+    ],
+    "devs": [
+      "Lapy"
+    ],
+    "size": "83MB",
+    "categories": [
+      "game"
+    ]
+  },
+  {
+    "titleid": "SNEK99999",
+    "version": "01.00",
+    "contentid": "TX0000-SNEK99999_00-0000000000000000",
+    "type": "game",
+    "name": "snake",
+    "icon": "http://brew.ga/TX0000-SNEK99999_00-0000000000000000-A0100-V0100.pkg.icon0.png",
+    "links": [
+      "http://brew.ga/TX0000-SNEK99999_00-0000000000000000-A0100-V0100.pkg"
+    ],
+    "description": [
+      "Snake Clone"
+    ],
+    "devs": [
+      "kevalpatel2106",
+      " TOXXIC407"
+    ],
+    "size": "70MB",
+    "categories": [
+      "game"
+    ]
+  },
+  {
+    "titleid": "NPXX10129",
+    "version": "01.00",
+    "contentid": "ED1633-NPXX10129_00-0000000000000000",
+    "type": "game",
+    "name": "Snake Ball v0.3",
+    "icon": "http://brew.ga/ED1633-NPXX10129_00-0000000000000000-A0100-V0100.pkg.icon0.png",
+    "links": [
+      "http://brew.ga/ED1633-NPXX10129_00-0000000000000000-A0100-V0100.pkg"
+    ],
+    "description": [
+      "Homebrew Game"
+    ],
+    "devs": [
+      "SnakePlissken"
+    ],
+    "size": "90MB",
+    "categories": [
+      "game"
+    ]
+  },
+  {
+    "titleid": "CUSA00000",
+    "version": "01.00",
+    "contentid": "UP1000-CUSA00000_00-SLUS000000000000",
+    "type": "game",
+    "name": "SNES STATION",
+    "icon": "http://brew.ga/SNES_STATION.pkg.icon0.png",
+    "links": [
+      "http://brew.ga/SNES_STATION.pkg"
+    ],
+    "description": [
+      "Emulator for the",
+      "SNES"
+    ],
+    "devs": [
+      "Nominus"
+    ],
+    "size": "43MB",
+    "categories": [
+      "emulator"
+    ]
+  },
+  {
+    "titleid": "NPXX51351",
+    "version": "01.00",
+    "contentid": "ED1633-NPXX51351_00-0000000000000000",
+    "type": "game",
+    "name": "Soilder Mayham v1",
+    "icon": "http://brew.ga/SOLDIER_MAYHEM_V1.pkg.icon0.png",
+    "links": [
+      "http://brew.ga/SOLDIER_MAYHEM_V1.pkg"
+    ],
+    "description": [
+      "Simple Shooter Game"
+    ],
+    "devs": [
+      "SnakePlissken"
+    ],
+    "size": "157MB",
+    "categories": [
+      "game"
+    ]
+  },
+  {
+    "titleid": "SMSR00001",
+    "version": "01.00",
+    "contentid": "IV0000-SMSR00001_00-SONIC1SMSREMAKE0",
+    "type": "game",
+    "name": "Sonic 1 SMS Remake\u0000\u0000\u0000\u0000\u0000\u0000",
+    "icon": "http://brew.ga/IV0000-SMSR00001_00-SONIC1SMSREMAKE0.PKG.icon0.png",
+    "links": [
+      "http://brew.ga/IV0000-SMSR00001_00-SONIC1SMSREMAKE0.PKG"
+    ],
+    "description": [
+      "fan-made PS4 Port from the SMS"
+    ],
+    "devs": [
+      "MDashK"
+    ],
+    "size": "44MB",
+    "categories": [
+      "hb game"
+    ]
+  },
+  {
+    "titleid": "SMSR00002",
+    "version": "01.00",
+    "contentid": "IV0000-SMSR00002_00-SONIC2SMSREMAKE0",
+    "type": "game",
+    "name": "Sonic 2 SMS Remake\u0000\u0000\u0000\u0000\u0000\u0000",
+    "icon": "http://brew.ga/IV0000-SMSR00002_00-SONIC2SMSREMAKE0.PKG.icon0.png",
+    "links": [
+      "http://brew.ga/IV0000-SMSR00002_00-SONIC2SMSREMAKE0.PKG"
+    ],
+    "description": [
+      "fan-made PS4 Port of Sonic 2 "
+    ],
+    "devs": [
+      "MDashK"
+    ],
+    "size": "54MB",
+    "categories": [
+      "hb game"
+    ]
+  },
+  {
+    "titleid": "SPAC30000",
+    "version": "01.00",
+    "contentid": "TX0000-SPAC30000_00-0000000000INVADE",
+    "type": "game",
+    "name": "Space Invaders",
+    "icon": "http://brew.ga/TX0000-SPAC30000_00-0000000000INVADE-A0100-V0100.pkg.icon0.png",
+    "links": [
+      "http://brew.ga/TX0000-SPAC30000_00-0000000000INVADE-A0100-V0100.pkg"
+    ],
+    "description": [
+      "Space Invaders",
+      "Clone"
+    ],
+    "devs": [
+      "Sinclair Target",
+      " TOXXIC407"
+    ],
+    "size": "65MB",
+    "categories": [
+      "game"
+    ]
+  },
+  {
+    "titleid": "NPXX50004",
+    "version": "01.00",
+    "contentid": "ED1633-NPXX50004_00-0000000000000000",
+    "type": "game",
+    "name": "SpaceShooter",
+    "icon": "http://brew.ga/SPACE_SHOOTER.pkg.icon0.png",
+    "links": [
+      "http://brew.ga/SPACE_SHOOTER.pkg"
+    ],
+    "description": [
+      "Homebrew Game"
+    ],
+    "devs": [
+      "jocover"
+    ],
+    "size": "81MB",
+    "categories": [
+      "game"
+    ]
+  },
+  {
+    "titleid": "SPLK00001",
+    "version": "01.00",
+    "contentid": "SP0000-SPLK00001_00-SPELUNKYCLASSIC0",
+    "type": "game",
+    "name": "Spelunky Classic HD\u0000\u0000\u0000\u0000\u0000",
+    "icon": "http://brew.ga/SP0000-SPLK00001_00-SPELUNKYCLASSIC0.pkg.icon0.png",
+    "links": [
+      "http://brew.ga/SP0000-SPLK00001_00-SPELUNKYCLASSIC0.pkg"
+    ],
+    "description": [
+      "Homebrew Port of",
+      "Spelunky"
+    ],
+    "devs": [
+      "Denis",
+      " tijesef",
+      " yancharkin"
+    ],
+    "size": "84MB",
+    "categories": [
+      "game"
+    ]
+  },
+  {
+    "titleid": "BORC00014",
+    "version": "01.00",
+    "contentid": "UP9000-BORC00014_00-BORC000140000001",
+    "type": "game",
+    "name": "Street Fighter Beats Of Rage Remix 2",
+    "icon": "http://brew.ga/STREET_FIGHTER_BEATS_OF_RAGE_REMIX_2.pkg.icon0.png",
+    "links": [
+      "http://brew.ga/STREET_FIGHTER_BEATS_OF_RAGE_REMIX_2.pkg"
+    ],
+    "description": [
+      "Homebrew Version of",
+      "Street Fighter"
+    ],
+    "devs": [
+      "TheheroGAC"
+    ],
+    "size": "96MB",
+    "categories": [
+      "game"
+    ]
+  },
+  {
+    "titleid": "BREW00009",
+    "version": "01.00",
+    "contentid": "IV0000-BREW00009_00-STREETRACERS4IO0",
+    "type": "game",
+    "name": "Street Racer HB\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+    "icon": "http://brew.ga/streatr.pkg.icon0.png",
+    "links": [
+      "http://brew.ga/streatr.pkg"
+    ],
+    "description": [
+      "2D Street racer HB Game"
+    ],
+    "devs": [
+      "silica & pina"
+    ],
+    "size": "24MB",
+    "categories": [
+      "hb game"
+    ]
+  },
+  {
+    "titleid": "STRE00001",
+    "version": "01.00",
+    "contentid": "IV0000-STRE00001_00-STREETRACING0000",
+    "type": "game",
+    "name": "Street Racing\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+    "icon": "http://brew.ga/STREET_RACING.pkg.icon0.png",
+    "links": [
+      "http://brew.ga/STREET_RACING.pkg"
+    ],
+    "description": [
+      "Homebrew Game"
+    ],
+    "devs": [
+      "Silica"
+    ],
+    "size": "18MB",
+    "categories": [
+      "game"
+    ]
+  },
+  {
+    "titleid": "CUSA99900",
+    "version": "01.00",
+    "contentid": "UP9000-CUSA99900_00-SCUS974900000001",
+    "type": "game",
+    "name": "Streets Of Rage MOD",
+    "icon": "http://brew.ga/STREETS_OF_RAGE_MOD.pkg.icon0.png",
+    "links": [
+      "http://brew.ga/STREETS_OF_RAGE_MOD.pkg"
+    ],
+    "description": [
+      "Homebrew Version of",
+      "Streets Of Rage"
+    ],
+    "devs": [
+      "Markus95"
+    ],
+    "size": "173MB",
+    "categories": [
+      "game"
+    ]
+  },
+  {
+    "titleid": "NPXX51362",
+    "version": "01.00",
+    "contentid": "ED1633-NPXX51362_00-0000000000000000",
+    "type": "game",
+    "name": "Strike Elite",
+    "icon": "http://brew.ga/ED1633-NPXX51362_00-0000000000000000-A0100-V0100.pkg.icon0.png",
+    "links": [
+      "http://brew.ga/ED1633-NPXX51362_00-0000000000000000-A0100-V0100.pkg"
+    ],
+    "description": [
+      "Simple Homebrew FPS"
+    ],
+    "devs": [
+      "Jyuce"
+    ],
+    "size": "578MB",
+    "categories": [
+      "game"
+    ]
+  },
+  {
+    "titleid": "LAPY10015",
+    "version": "01.00",
+    "contentid": "ED1234-LAPY10015_00-0000000000000000",
+    "type": "game",
+    "name": "Super Console Wars",
+    "icon": "http://brew.ga/consolewars.pkg.icon0.png",
+    "links": [
+      "http://brew.ga/consolewars.pkg"
+    ],
+    "description": [
+      "run and gun",
+      ".",
+      "Unity"
+    ],
+    "devs": [
+      "Lapy"
+    ],
+    "size": "176MB",
+    "categories": [
+      "game"
+    ]
+  },
+  {
+    "titleid": "SYNC00001",
+    "version": "01.00",
+    "contentid": "SY0000-SYNC00001_00-SYNCSIMPLEPS4000",
+    "type": "game",
+    "name": "Sync Simple\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000\u0000",
+    "icon": "http://brew.ga/SY0000-SYNC00001_00-SYNCSIMPLEPS4000.pkg.icon0.png",
+    "links": [
+      "http://brew.ga/SY0000-SYNC00001_00-SYNCSIMPLEPS4000.pkg"
+    ],
+    "description": [
+      "Homebrew Game"
+    ],
+    "devs": [
+      "Xeronixworks",
+      " Aurora",
+      " The_Zett",
+      " YellowAfterlife",
+      " Denis",
+      " tijesef"
+    ],
+    "size": "14MB",
+    "categories": [
+      "game"
+    ]
+  },
+  {
+    "titleid": "NPXX50003",
+    "version": "01.00",
+    "contentid": "ED1633-NPXX50003_00-0000000000000000",
+    "type": "game",
+    "name": "UniteBoston2015TrainingDay",
+    "icon": "http://brew.ga/TANK.pkg.icon0.png",
+    "links": [
+      "http://brew.ga/TANK.pkg"
+    ],
+    "description": [
+      "Homebrew Game"
+    ],
+    "devs": [
+      "jocover"
+    ],
+    "size": "114MB",
+    "categories": [
+      "game"
+    ]
+  },
+  {
+    "titleid": "NPXX12346",
+    "version": "01.00",
+    "contentid": "UP9000-NPXX12346_00-TESTAPP200000000",
+    "type": "game",
+    "name": "TestApp",
+    "icon": "http://brew.ga/TESTAPP.pkg.icon0.png",
+    "links": [
+      "http://brew.ga/TESTAPP.pkg"
+    ],
+    "description": [
+      "First Homebrew ever",
+      "created for the",
+      "PS4 (POC)"
+    ],
+    "devs": [
+      "zecoxao"
+    ],
+    "size": "8MB",
+    "categories": [
+      "test"
+    ]
+  },
+  {
+    "titleid": "TEFO11111",
+    "version": "01.00",
+    "contentid": "ED1633-TEFO11111_00-0000000000000000",
+    "type": "game",
+    "name": "The Enchanted Forest",
+    "icon": "http://brew.ga/ED1633-TEFO11111_00-0000000000000000-A0100-V0100.pkg.icon0.png",
+    "links": [
+      "http://brew.ga/ED1633-TEFO11111_00-0000000000000000-A0100-V0100.pkg"
+    ],
+    "description": [
+      "Homebrew Game"
+    ],
+    "devs": [
+      "RetroGamer74"
+    ],
+    "size": "304MB",
+    "categories": [
+      "game"
+    ]
+  },
+  {
+    "titleid": "BREW00009",
+    "version": "1.00",
+    "contentid": "IV0000-BREW00009_00-TELNETSHELL00000",
+    "type": "game",
+    "name": "Telnet Shell",
+    "icon": "http://brew.ga/IV0000-BREW00009_00-TELNETSHELL00000.pkg.icon0.png",
+    "links": [
+      "http://brew.ga/IV0000-BREW00009_00-TELNETSHELL00000.pkg"
+    ],
+    "description": [
+      "PS4 Shell Daemon",
+      "(Installer PKG)"
+    ],
+    "devs": [
+      "SB"
+    ],
+    "size": "7MB",
+    "categories": [
+      "utility"
+    ]
+  },
+  {
+    "titleid": "CUSA03398",
+    "version": "01.46",
+    "contentid": "EP8816-CUSA03398_00-TWITCHPS4APPSCEE",
+    "type": "game",
+    "name": "Twitch",
+    "icon": "http://brew.ga/505_UP8902-CUSA03285_00-TWITCHPS4APPSCEA-A0100-V0101.pkg.icon0.png",
+    "links": [
+      "http://brew.ga/505_UP8902-CUSA03285_00-TWITCHPS4APPSCEA-A0100-V0101.pkg"
+    ],
+    "description": [
+      "Patched Twitch",
+      ".",
+      "a.k.a No PSN"
+    ],
+    "devs": [
+      "HK31"
+    ],
+    "size": "50MB",
+    "categories": [
+      "media"
+    ]
+  },
+  {
+    "titleid": "CUSA02222",
+    "version": "01.02",
+    "contentid": "UP9000-CUSA02222_00-SCUS974900000001",
+    "type": "game",
+    "name": "ULaunch Elf\n",
+    "icon": "http://brew.ga/ULAUNCH_ELF_WITH_DOSBOX.pkg.icon0.png",
+    "links": [
+      "http://brew.ga/ULAUNCH_ELF_WITH_DOSBOX.pkg"
+    ],
+    "description": [
+      "Emulator for",
+      "MS: DOS"
+    ],
+    "devs": [
+      "dragonsurfer"
+    ],
+    "size": "15MB",
+    "categories": [
+      "utility"
+    ]
+  },
+  {
+    "titleid": "CUSA16881",
+    "version": "01.00",
+    "contentid": "UT0001-CUSA16881_00-UNTRTHEME0100000",
+    "type": "additional content",
+    "name": "Uncharted & Tomb.R_Theme_by latioboy",
+    "icon": "http://brew.ga/PS4-Theme_Uncharted-Tomb_Raider.pkg.icon0.png",
+    "links": [
+      "http://brew.ga/PS4-Theme_Uncharted-Tomb_Raider.pkg"
+    ],
+    "description": [
+      "Theme inspired by",
+      "Tomb Raider and",
+      "Uncharted"
+    ],
+    "devs": [
+      "latioboy"
+    ],
+    "size": "15MB",
+    "categories": [
+      "theme"
+    ]
+  },
+  {
+    "titleid": "SSNE10000",
+    "version": "01.00",
+    "contentid": "UP0001-SSNE10000_00-0000000000000001",
+    "type": "game",
+    "name": "RetroArch",
+    "icon": "http://brew.ga/RetroArch_PS4_r4.pkg.icon0.png",
+    "links": [
+      "http://brew.ga/RetroArch_PS4_r4.pkg"
+    ],
+    "description": [
+      "Multi-System",
+      "Emulator",
+      "Download and Install the Cores"
+    ],
+    "devs": [
+      "OsirisX"
+    ],
+    "size": "28MB",
+    "categories": [
+      "emulator"
+    ]
+  },
+  {
+    "titleid": "MODS00001",
+    "version": "01.02",
+    "contentid": "UP9000-MODS00001_00-WEBRTE0000000000",
+    "type": "game",
+    "name": "WebRTE",
+    "icon": "http://brew.ga/WebRTE.pkg.icon0.png",
+    "links": [
+      "http://brew.ga/WebRTE.pkg"
+    ],
+    "description": [
+      "Loads the WebRTE",
+      "Payload"
+    ],
+    "devs": [
+      "TylerMods"
+    ],
+    "size": "3MB",
+    "categories": [
+      "mod"
+    ]
+  },
+  {
+    "titleid": "LAPY10009",
+    "version": "01.02",
+    "contentid": "ED1234-LAPY10009_00-0000000000000000",
+    "type": "game",
+    "name": "Wild Gunman Remake",
+    "icon": "http://brew.ga/LAPY10009.pkg.icon0.png",
+    "links": [
+      "http://brew.ga/LAPY10009.pkg"
+    ],
+    "description": [
+      "Continuing with the remakes of the NES classics",
+      "",
+      "now it is the turn of this jewel ",
+      "that will transport you to your childhood."
+    ],
+    "devs": [
+      "Lapy"
+    ],
+    "size": "108MB",
+    "categories": [
+      "hb game"
+    ]
+  },
+  {
+    "titleid": "PPPP00002",
+    "version": "01.00",
+    "contentid": "UP9000-PPPP00002_00-0000000000000000",
+    "type": "game",
+    "name": "Yabause (Saturn)",
+    "icon": "http://brew.ga/yabause.pkg.icon0.png",
+    "links": [
+      "http://brew.ga/yabause.pkg"
+    ],
+    "description": [
+      "Sega Saturn Emulator",
+      "needs /data/yabause/saturn.bin BOIS"
+    ],
+    "devs": [
+      "Znullptr"
+    ],
+    "size": "8MB",
+    "categories": [
+      "emulator"
+    ]
+  },
+  {
+    "titleid": "CUSA01015",
+    "version": "01.00",
+    "contentid": "UP4381-CUSA01015_00-YOUTUBESCEA00000",
+    "type": "game",
+    "name": "YouTube",
+    "icon": "http://brew.ga/youtube.pkg.icon0.png",
+    "links": [
+      "http://brew.ga/youtube.pkg"
+    ],
+    "description": [
+      "NoPSN Version of this app"
+    ],
+    "devs": [
+      "HK31"
+    ],
+    "size": "110MB",
+    "categories": [
+      "media"
+    ]
+  },
+  {
+    "titleid": "CUSA18680",
+    "version": "01.01",
+    "contentid": "UP4381-CUSA18680_00-YOUTUBETVSCEA000",
+    "type": "game",
+    "name": "YouTube TV",
+    "icon": "http://brew.ga/tv.pkg.icon0.png",
+    "links": [
+      "http://brew.ga/tv.pkg"
+    ],
+    "description": [
+      "NoPSN Version of this app",
+      " NA only"
+    ],
+    "devs": [
+      "HK31"
+    ],
+    "size": "69MB",
+    "categories": [
+      "media"
+    ]
+  },
+  {
+    "titleid": "BREW69420",
+    "version": "01.00",
+    "contentid": "TX0000-BREW69420_00-BREWSTORE0000000",
+    "type": "game",
+    "name": "Brew",
+    "icon": "http://brew.ga/brew.pkg.icon0.png",
+    "links": [
+      "http://brew.ga/brew.pkg"
+    ],
+    "description": [
+      "modified Version of",
+      "Flatz's Installer",
+      " with an integrated Homebrew Store"
+    ],
+    "devs": [
+      "Flatz",
+      "TOXXIC407"
+    ],
+    "size": "3MB",
+    "categories": [
+      "utility"
+    ]
+  }
+]

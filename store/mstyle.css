@@ -1,0 +1,119 @@
+body {
+    font-family: "Lato", sans-serif;
+	cursor:url(cursor.png), auto;
+	background-size: 100% 100%;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+
+.sidenav {
+    height: 100%;
+    width: 0;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: #373737;
+    overflow-x: hidden;
+    transition: 0.5s;
+    padding-top: 60px;
+}
+
+
+.sidenav a {
+    padding: 8px 8px 8px 32px;
+    text-decoration: none;
+    font-size: 25px;
+    color: #111;
+    display: block;
+    transition: 0.3s;
+}
+
+.sidenav .closebtn {
+    position: absolute;
+    top: 0;
+    right: 25px;
+    font-size: 36px;
+    margin-left: 50px;
+}
+
+.centerer{
+	text-align: center;
+}
+
+.button {
+    background-color: #003791;
+    border: none;
+    padding: 10px 16px;
+    text-align: center;
+    text-decoration: none;
+    display: table-cell;
+    font-size: 20px;
+    margin: 4px 2px;
+	border-radius: 5px;
+}
+
+.button:visited { 
+text-decoration: none;
+color:black; 
+}
+
+.A:visited { 
+text-decoration: none;
+color:black; 
+}
+
+.game_open {
+    background-color: #373737;
+    border: none;
+    padding: 15px 15px;
+    text-align: center; 
+    display: inline-block;
+    font-size: 20px;
+    margin: 4px 2px;
+	border-radius: 10px;
+}
+
+.game {
+    background-color: #373737;
+    border: none;
+    padding: 15px 15px;
+    text-align: center; 
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+	width:256px;
+	border-radius: 10px;
+}
+
+.icon {
+width: 256px;
+height: 256px;
+border-radius: 5px;
+}
+
+.icon_open {
+width: 256px;
+height: 256px;
+border-radius: 5px;
+}
+
+@media screen and (max-height: 450px) {
+  .sidenav {padding-top: 15px;}  
+  .sidenav a {font-size: 18px;}
+}
+
+#pbc{ width:200px; height:20px; background:#000; display: inline-block; }
+#pbc > #pb{ position: relative; top:0px; background: #003791; width:0%; height:20px; color: #0FF; text-align:center; }
+#pbc > #pbt{ position: relative; top:-23px; text-align:center; color:#FFF; padding: 4px; height:8px; font-size:18px; }
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+form  { display: table;      }
+p     { display: table-row;  }
+label { display: table-cell; }
+input { display: table-cell; }
