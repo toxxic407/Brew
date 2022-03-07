@@ -2,7 +2,7 @@ This is  a modified Version of Flatz's Remote PKG Installer with The PS4 PKG Sto
 It is fully customisable (All of the Files are stored in /data/store if you want to create or install a theme)
 You can host your own Packages and use them with this by modifying and hosting the pkgs.json as well as the .pkg Files somewhere and then providing the URL of the json file in the Settings.
 
-I recommend using https://sites.google.com/site/theleecherman/ps4pkgviewer by theleecherman to acquire the necessary information and Files from a .pkg file that you want to host. I might release a tool that makes this Process easier at some point
+Use https://github.com/toxxic407/pkginfo to generate the Files that are necessary to host packages
 
 If you want to build it yourself you'll probably need to modify the Makefile because i used weird Paths for my Files and install make (i got it through chocolatey) as well as any other Stuff that is required for the remote PKG installer
 
